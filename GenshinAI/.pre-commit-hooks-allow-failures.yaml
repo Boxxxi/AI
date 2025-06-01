@@ -1,0 +1,10 @@
+fail_fast: false
+repos:
+- repo: meta
+  hooks:
+  - id: check-hooks-apply
+    fail_fast: false
+    pass_filenames: false
+  - id: check-useless-excludes
+    fail_fast: false
+    pass_filenames: false

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYU DS Course Game</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Home View -->
+        <div id="homeView" class="view active">
+            <header>
+                <h1>NYU DS Course Game</h1>
+                <div class="user-info">
+                    <span id="userName">Student</span>
+                    <div class="level-info">
+                        <span>Level <span id="userLevel">1</span></span>
+                        <div class="progress-bar">
+                            <div class="progress" id="levelProgress"></div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <nav class="main-nav">
+                <button class="nav-btn" data-view="courses">
+                    <i class="fas fa-book"></i>
+                    <span>Courses</span>
+                </button>
+                <button class="nav-btn" data-view="aiPath">
+                    <i class="fas fa-robot"></i>
+                    <span>AI Path</span>
+                </button>
+                <button class="nav-btn" data-view="flashcards">
+                    <i class="fas fa-cards"></i>
+                    <span>Flashcards</span>
+                </button>
+                <button class="nav-btn" data-view="profile">
+                    <i class="fas fa-user"></i>
+                    <span>Profile</span>
+                </button>
+            </nav>
+        </div>
+
+        <!-- Courses View -->
+        <div id="coursesView" class="view">
+            <header>
+                <button class="back-btn"><i class="fas fa-arrow-left"></i></button>
+                <h2>Courses</h2>
+            </header>
+            <div class="search-bar">
+                <input type="text" id="courseSearch" placeholder="Search courses...">
+                <div class="category-pills">
+                    <button class="pill active" data-category="all">All</button>
+                    <button class="pill" data-category="core">Core</button>
+                    <button class="pill" data-category="ai">AI Research</button>
+                    <button class="pill" data-category="specialized">Specialized</button>
+                    <button class="pill" data-category="industry">Industry & Ethics</button>
+                </div>
+            </div>
+            <div class="courses-grid" id="coursesGrid">
+                <!-- Courses will be dynamically added here -->
+            </div>
+        </div>
+
+        <!-- AI Path View -->
+        <div id="aiPathView" class="view">
+            <header>
+                <button class="back-btn"><i class="fas fa-arrow-left"></i></button>
+                <h2>AI Research Path</h2>
+            </header>
+            <div class="path-container">
+                <div class="path-section">
+                    <h3>Core Foundations</h3>
+                    <div class="path-courses" id="coreCourses">
+                        <!-- Core courses will be added here -->
+                    </div>
+                </div>
+                <div class="path-section">
+                    <h3>Essential AI Research Skills</h3>
+                    <div class="path-courses" id="aiSkillsCourses">
+                        <!-- AI skills courses will be added here -->
+                    </div>
+                </div>
+                <div class="path-section">
+                    <h3>Specialized Areas</h3>
+                    <div class="path-courses" id="specializedCourses">
+                        <!-- Specialized courses will be added here -->
+                    </div>
+                </div>
+                <div class="path-section">
+                    <h3>Industry & Ethics</h3>
+                    <div class="path-courses" id="industryCourses">
+                        <!-- Industry courses will be added here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Flashcard Study View -->
+        <div id="flashcardView" class="view">
+            <header>
+                <button class="back-btn"><i class="fas fa-arrow-left"></i></button>
+                <h2 id="currentCourseTitle">Course Title</h2>
+                <div class="progress-info">
+                    <span id="cardsRemaining">0/0</span>
+                    <div class="progress-bar">
+                        <div class="progress" id="studyProgress"></div>
+                    </div>
+                </div>
+            </header>
+            <div class="flashcard-container">
+                <div class="flashcard" id="currentCard">
+                    <div class="card-front">
+                        <h3>Question</h3>
+                        <p id="cardQuestion"></p>
+                    </div>
+                    <div class="card-back">
+                        <h3>Answer</h3>
+                        <p id="cardAnswer"></p>
+                    </div>
+                </div>
+                <div class="card-controls">
+                    <button class="card-btn wrong" id="wrongBtn">
+                        <i class="fas fa-times"></i>
+                    </button>
+                    <button class="card-btn flip" id="flipBtn">
+                        <i class="fas fa-sync"></i>
+                    </button>
+                    <button class="card-btn correct" id="correctBtn">
+                        <i class="fas fa-check"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Profile View -->
+        <div id="profileView" class="view">
+            <header>
+                <button class="back-btn"><i class="fas fa-arrow-left"></i></button>
+                <h2>Profile</h2>
+            </header>
+            <div class="profile-content">
+                <div class="profile-header">
+                    <div class="profile-pic">
+                        <i class="fas fa-user-circle"></i>
+                    </div>
+                    <div class="profile-info">
+                        <h3 id="profileName">Student</h3>
+                        <div class="level-info">
+                            <span>Level <span id="profileLevel">1</span></span>
+                            <div class="progress-bar">
+                                <div class="progress" id="profileProgress"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="stats-section">
+                    <h3>Stats</h3>
+                    <div class="stats-grid">
+                        <div class="stat-item">
+                            <span class="stat-value" id="coursesCompleted">0</span>
+                            <span class="stat-label">Courses Completed</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="flashcardsMastered">0</span>
+                            <span class="stat-label">Flashcards Mastered</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="currentStreak">0</span>
+                            <span class="stat-label">Day Streak</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-value" id="achievementsUnlocked">0</span>
+                            <span class="stat-label">Achievements</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="achievements-section">
+                    <h3>Achievements</h3>
+                    <div class="achievements-grid" id="achievementsGrid">
+                        <!-- Achievements will be added here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html> 

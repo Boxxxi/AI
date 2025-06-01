@@ -1,0 +1,72 @@
+package com.example.hangman;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Random;
+
+public class WordList {
+    private static final List<String> WORDS = Arrays.asList(
+            "ABSTRACT", "ADVANCED", "AIRPLANE", "ALPHABET", "ANALYSIS", 
+            "APPROACH", "ARGUMENT", "ARTISTIC", "AUDIENCE", "BASEBALL",
+            "BATHROOM", "BEAUTIFUL", "BIRTHDAY", "BRILLIANT", "BUSINESS",
+            "CAMPAIGN", "CAPACITY", "CATEGORY", "CHAMPION", "CHEMICAL",
+            "CHILDREN", "CIRCUIT", "CLASSIC", "CLIMATE", "COMPUTER",
+            "CONCRETE", "CONDUCTOR", "CONSIDER", "CREATIVE", "CRITICAL",
+            "CULTURAL", "CUSTOMER", "DATABASE", "DECISION", "DEDICATED",
+            "DELIVERY", "DEMOCRACY", "DESIGNER", "DETAILED", "DETECTIVE",
+            "DIABETES", "DIALOGUE", "DIFFICULT", "DINOSAUR", "DIRECTOR",
+            "DISCOVERY", "DOCUMENT", "DOMESTIC", "DRAMATIC", "ECONOMIC",
+            "EDUCATED", "EGYPTIAN", "ELECTION", "ELEPHANT", "ENGINEER",
+            "ENORMOUS", "ENTRANCE", "ENVIRONMENT", "ESTIMATE", "EXCHANGE",
+            "EXCITING", "EXERCISE", "EXPLICIT", "EXTERNAL", "FACILITY",
+            "FAMILIAR", "FAVORITE", "FESTIVAL", "FINANCIAL", "FLAGSHIP",
+            "FOOTBALL", "FORECAST", "FRAGMENT", "FUNCTION", "FURNITURE",
+            "GAMBLING", "GENEROUS", "GRADUATE", "GRAPHICS", "GRATITUDE",
+            "GUARDIAN", "GUIDANCE", "HAMBURGER", "HARDWARE", "HEADLINE",
+            "HERITAGE", "HIGHLAND", "HISTORIC", "HUMANITY", "IDENTICAL",
+            "IMPERIAL", "INCIDENT", "INDUSTRY", "INFERIOR", "INNOCENT",
+            "INSTANCE", "INSULTING", "INTEGRAL", "INVASION", "INVESTOR",
+            "JEALOUSY", "JUDGMENT", "KEYBOARD", "KNOWLEDGE", "LANGUAGE",
+            "LAUGHTER", "LEARNING", "LEVERAGE", "LIFESTYLE", "LIGHTNING",
+            "LITERARY", "LOCATION", "MAGAZINE", "MAGNETIC", "MAJORITY",
+            "MARATHON", "MARKETING", "MATERIAL", "MEDICINE", "MEMORIAL",
+            "MIDNIGHT", "MILITARY", "MINORITY", "MOMENTUM", "MOUNTAIN",
+            "NATIONAL", "NEGATIVE", "NEIGHBOR", "NEWSPAPER", "OBJECTIVE",
+            "OBSTACLE", "OFFERING", "OFFICIAL", "OPERATOR", "OPTIMISM",
+            "ORIGINAL", "OVERSIGHT", "PAINTING", "PARALLEL", "PARENTAL",
+            "PASSWORD", "PATIENCE", "PERIODIC", "PERSONAL", "PHYSICAL",
+            "PLANNING", "PLATFORM", "PLEASURE", "POLITICS", "PORTABLE",
+            "PORTRAIT", "POSITION", "POSITIVE", "POSSIBLE", "POTENTIAL",
+            "PRACTICE", "PRECIOUS", "PREGNANT", "PRESENCE", "PRESSURE",
+            "PREVIOUS", "PRINCESS", "PRIORITY", "PROGRESS", "PROPERTY",
+            "PROPOSAL", "PROTOCOL", "PROVINCE", "PSYCHIC", "PURCHASE",
+            "QUANTITY", "QUESTION", "RATIONAL", "REACTION", "RECEIVER",
+            "RECOVERY", "REGIONAL", "REGISTER", "RELATION", "RELATIVE",
+            "REMEMBER", "REPUBLIC", "RESEARCH", "RESOURCE", "RESPONSE",
+            "SANDWICH", "SCHEDULE", "SCIENTIST", "SEASONAL", "SECURITY",
+            "SENTENCE", "SEPARATE", "SEQUENCE", "SERGEANT", "SHIPPING",
+            "SHORTAGE", "SHOULDER", "SIMPLICITY", "SOLUTION", "SOMEWHAT",
+            "SOUTHERN", "SPECIALIST", "SPIRITUAL", "SPOKESMAN", "STANDARD",
+            "STRATEGY", "STRENGTH", "STRICTLY", "STRUCTURE", "STUDENT",
+            "SUBJECTIVE", "SUBMARINE", "SUBSTANCE", "SUBSTITUTE", "SUBURBAN",
+            "SUFFERING", "SUGGESTION", "SURROUND", "SURVIVAL", "SWIMMING",
+            "SYMPATHY", "SYNDROME", "TACTICAL", "TEACHING", "TECHNICAL",
+            "TEENAGER", "TELEPHONE", "TELESCOPE", "TERRIBLE", "TERRITORY",
+            "THINKING", "THOUSAND", "TOMORROW", "TRAINING", "TRIANGLE",
+            "TROPICAL", "ULTIMATE", "UMBRELLA", "UNIVERSE", "VACATION",
+            "VARIABLE", "VERTICAL", "VICTORIA", "VIOLENCE", "VOLATILE",
+            "WALLPAPER", "WAREHOUSE", "WARRANTY", "WEAKNESS", "WEATHER",
+            "WEDDING", "WEEKEND", "WILDLIFE", "WIRELESS", "WITHDRAW",
+            "WOODLAND", "WORKSHOP", "YOURSELF", "ZEPPELIN"
+    );
+
+    private static final Random RANDOM = new Random();
+
+    /**
+     * Returns a random word from the list.
+     * All words are uppercase and have 6 or more letters.
+     */
+    public static String getRandomWord() {
+        return WORDS.get(RANDOM.nextInt(WORDS.size()));
+    }
+} 

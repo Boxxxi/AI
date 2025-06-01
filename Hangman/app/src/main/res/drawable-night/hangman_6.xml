@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Base -->
+    <path
+        android:pathData="M40,160 L160,160"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Pole -->
+    <path
+        android:pathData="M80,160 L80,40"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Top bar -->
+    <path
+        android:pathData="M80,40 L130,40"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Rope -->
+    <path
+        android:pathData="M130,40 L130,60"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Head -->
+    <path
+        android:pathData="M130,80 A10,10 0 1,0 130,60 A10,10 0 1,0 130,80 Z"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Body -->
+    <path
+        android:pathData="M130,80 L130,120"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Left Arm -->
+    <path
+        android:pathData="M130,90 L110,110"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Right Arm -->
+    <path
+        android:pathData="M130,90 L150,110"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Left Leg -->
+    <path
+        android:pathData="M130,120 L110,140"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- Right Leg -->
+    <path
+        android:pathData="M130,120 L150,140"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+    <!-- X eyes -->
+    <path
+        android:pathData="M125,65 L130,70 M130,65 L125,70"
+        android:strokeWidth="2"
+        android:strokeColor="@color/dark_red" />
+    <path
+        android:pathData="M135,65 L140,70 M140,65 L135,70"
+        android:strokeWidth="2"
+        android:strokeColor="@color/dark_red" />
+
+    <!-- Sad mouth -->
+    <path
+        android:pathData="M125,75 C130,72 135,72 140,75"
+        android:strokeWidth="2"
+        android:strokeColor="@color/dark_red" />
+
+</vector> 

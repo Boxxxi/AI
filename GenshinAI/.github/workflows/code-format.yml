@@ -1,0 +1,63 @@
+name: Code Formatting
+
+on:
+  push:
+    branches: [ main, master, develop ]
+  pull_request:
+    branches: [ main, master, develop ]
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install black isort ruff pydocstyle pyupgrade
+
+      - name: Format Python code with Black
+        run: |
+          black .
+
+      - name: Sort imports with isort
+        run: |
+          isort --profile black .
+
+      - name: Fix code with Ruff (unused imports, blank lines)
+        run: |
+          ruff check --select=E,F,W,I001 --ignore=E501,E203 --fix .
+
+      - name: Upgrade Python syntax
+        run: |
+          pyupgrade --py38-plus $(find . -name "*.py")
+
+      - name: Check Markdown files
+        if: always()  # Run this step even if previous steps fail
+        run: |
+          npm install -g markdownlint-cli
+          markdownlint '**/*.md' --ignore node_modules
+
+      - name: Format JSON files
+        if: always()  # Run this step even if previous steps fail
+        run: |
+          npm install -g prettier
+          prettier --write "**/*.json"
+
+      - name: Commit changes
+        if: github.event_name != 'pull_request'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet && git diff --staged --quiet || (git add . && git commit -m "Auto-format code" && git push)

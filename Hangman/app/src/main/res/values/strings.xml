@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="app_title">Hangman Game</string>
+    <string name="new_game">New Game</string>
+    <string name="used_letters">Used Letters:</string>
+    <string name="hangman_image">Hangman Image</string>
+    <string name="game_over">Game Over!</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_won">You won! The word was %1$s</string>
+    <string name="you_lost">You lost! The word was %1$s</string>
+    <string name="play_again">Play Again</string>
+</resources> 

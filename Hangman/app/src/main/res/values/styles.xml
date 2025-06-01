@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base button style that adapts to the current theme -->
+    <style name="HangmanButtonStyle" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <!-- Game over dialog style -->
+    <style name="GameOverDialogStyle" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="android:background">?android:attr/windowBackground</item>
+        <item name="android:textColor">?android:attr/textColor</item>
+    </style>
+</resources> 

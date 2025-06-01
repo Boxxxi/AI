@@ -1,0 +1,54 @@
+fail_fast: false
+warn: true
+verbose: true
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+    -   id: trailing-whitespace
+    -   id: end-of-file-fixer
+    -   id: check-yaml
+    -   id: check-json
+    -   id: debug-statements
+    -   id: mixed-line-ending
+        args: ['--fix=lf']
+    -   id: check-merge-conflict
+
+-   repo: https://github.com/psf/black
+    rev: 23.7.0
+    hooks:
+    -   id: black
+
+-   repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+    -   id: isort
+        args: ["--profile", "black"]
+
+-   repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.0.285
+    hooks:
+    -   id: ruff
+        args: [
+            "--fix",
+            "--select=E,F,W,I001",  # E: pycodestyle errors, F: pyflakes, W: warnings, I001: isort
+            "--ignore=E501,E203,E402",    # E501: line too long (handled by black), E203: whitespace before ':' (handled by black), E402: module import not at top (we handle imports differently)
+        ]
+
+-   repo: https://github.com/pycqa/pydocstyle
+    rev: 6.3.0
+    hooks:
+    -   id: pydocstyle
+        args: ["--ignore=D100,D104,D203,D212,D213"]  # Ignore missing docstrings in public module/package, and some style issues
+
+-   repo: https://github.com/asottile/pyupgrade
+    rev: v3.10.1
+    hooks:
+    -   id: pyupgrade
+        args: ["--py38-plus"]
+
+-   repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.35.0
+    hooks:
+    -   id: markdownlint-fix
+        args: ["--ignore", "node_modules"]

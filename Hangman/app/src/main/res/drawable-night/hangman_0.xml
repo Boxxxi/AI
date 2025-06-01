@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Base -->
+    <path
+        android:pathData="M40,160 L160,160"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Pole -->
+    <path
+        android:pathData="M80,160 L80,40"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Top bar -->
+    <path
+        android:pathData="M80,40 L130,40"
+        android:strokeWidth="6"
+        android:strokeColor="@color/white" />
+
+    <!-- Rope -->
+    <path
+        android:pathData="M130,40 L130,60"
+        android:strokeWidth="3"
+        android:strokeColor="@color/white" />
+
+</vector> 
