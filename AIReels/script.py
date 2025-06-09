@@ -1,22 +1,30 @@
-import random
+"""
+AI Reels Generator - Creates educational coding reels for social media.
+"""
+
 import os
-from PIL import Image, ImageDraw, ImageFont
+import random
+from typing import Tuple
+
 import ffmpeg
 import requests
 from dotenv import load_dotenv
+from PIL import Image, ImageDraw, ImageFont
 
 # Load environment variables
 load_dotenv()
 
-# Hugging Face API key
+# API Configuration
 HUGGINGFACE_API_KEY = os.getenv("HUGGINGFACE_API_KEY")
-
-# Meta API credentials (for Instagram posting)
-# META_ACCESS_TOKEN = os.getenv("META_ACCESS_TOKEN")
 INSTAGRAM_ACCOUNT_ID = os.getenv("INSTAGRAM_ACCOUNT_ID")
 
-# 1. Select a coding practice topic
-def get_coding_practice():
+def get_coding_practice() -> str:
+    """
+    Select a random coding practice topic.
+    
+    Returns:
+        str: A coding practice topic
+    """
     topics = [
         "Use meaningful variable names",
         "Write modular functions",
@@ -26,54 +34,91 @@ def get_coding_practice():
     ]
     return random.choice(topics)
 
-# 2. Generate good vs. bad code examples using Hugging Face
-def generate_code_examples(topic):
+def generate_code_examples(topic: str) -> str:
+    """
+    Generate good vs. bad code examples using Hugging Face's StarCoder.
+    
+    Args:
+        topic (str): The coding practice topic
+        
+    Returns:
+        str: Generated code examples
+    """
     API_URL = "https://api-inference.huggingface.co/models/bigcode/starcoder"
     headers = {"Authorization": f"Bearer {HUGGINGFACE_API_KEY}"}
     payload = {"inputs": f"Generate a bad and a good example of {topic} in Python."}
+    
     response = requests.post(API_URL, headers=headers, json=payload)
-    print(response.json()["generated_text"])
     return response.json()["generated_text"]
 
-# 3. Create AI voice-over
-def generate_voiceover(text, output_file):
-    tts_url = "https://api.elevenlabs.io/v1/text-to-speech"  # Example API
+def generate_voiceover(text: str, output_file: str) -> None:
+    """
+    Generate AI voice-over using ElevenLabs API.
+    
+    Args:
+        text (str): Text to convert to speech
+        output_file (str): Path to save the audio file
+    """
+    tts_url = "https://api.elevenlabs.io/v1/text-to-speech"
     headers = {"Authorization": f"Bearer {os.getenv('ELEVENLABS_API_KEY')}"}
     data = {"text": text, "voice": "en-US"}
+    
     response = requests.post(tts_url, headers=headers, json=data)
     with open(output_file, "wb") as f:
         f.write(response.content)
 
-# 4. Create image with code examples
-def create_code_image(code, output_file):
+def create_code_image(code: str, output_file: str) -> None:
+    """
+    Create an image with code examples.
+    
+    Args:
+        code (str): Code to display in the image
+        output_file (str): Path to save the image
+    """
     img = Image.new('RGB', (800, 600), color=(30, 30, 30))
     draw = ImageDraw.Draw(img)
     font = ImageFont.load_default()
     draw.text((50, 50), code, fill=(255, 255, 255), font=font)
     img.save(output_file)
 
-# 5. Create video using ffmpeg-python
-def create_video(image_path, audio_path, output_video):
+def create_video(image_path: str, audio_path: str, output_video: str) -> None:
+    """
+    Create a video by combining image and audio using ffmpeg.
+    
+    Args:
+        image_path (str): Path to the image file
+        audio_path (str): Path to the audio file
+        output_video (str): Path to save the output video
+    """
     input_image = ffmpeg.input(image_path, loop=1, t=10)
     input_audio = ffmpeg.input(audio_path)
-    output = ffmpeg.output(input_image, input_audio, output_video, vcodec='libx264', acodec='aac', strict='experimental', shortest=None)
+    output = ffmpeg.output(
+        input_image, 
+        input_audio, 
+        output_video, 
+        vcodec='libx264', 
+        acodec='aac', 
+        strict='experimental', 
+        shortest=None
+    )
     ffmpeg.run(output)
 
-# 6. Upload video to Instagram
-# def post_to_instagram(video_path, caption):
-#     upload_url = f"https://graph.facebook.com/v18.0/{INSTAGRAM_ACCOUNT_ID}/media"
-#     data = {"video_url": video_path, "caption": caption, "access_token": META_ACCESS_TOKEN}
-#     response = requests.post(upload_url, data=data)
-#     print(response.json())
-
-if __name__ == "__main__":
+def main() -> None:
+    """Main function to generate the AI reel."""
+    # Get topic and generate examples
     topic = get_coding_practice()
     code_examples = generate_code_examples(topic)
     
+    # Save examples to file
     with open("examples.txt", "w") as f:
         f.write(code_examples)
     
+    # Create visual and audio elements
     create_code_image(code_examples, "code.png")
     generate_voiceover(f"Today's tip: {topic}. Here's why it matters!", "voice.mp3")
+    
+    # Create final video
     create_video("code.png", "voice.mp3", "output.mp4")
-    # post_to_instagram("output.mp4", f"Today's coding tip: {topic} \n\n #coding #python")
+
+if __name__ == "__main__":
+    main()

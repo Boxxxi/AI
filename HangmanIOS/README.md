@@ -9,44 +9,91 @@ This is an iOS version of the classic Hangman word-guessing game, ported from a 
 - Simple touch interface with onscreen keyboard
 - Visual hangman display that updates as you play
 - Game over alerts that tell you the word if you lose
+- Support for both light and dark mode
+- Responsive layout for all iOS devices
 
 ## Requirements
 
 - iOS 15.0+
 - Xcode 14.0+
 - Swift 5.0+
+- CocoaPods (for dependency management)
 
 ## Installation
 
 1. Clone this repository
+```bash
+git clone https://github.com/yourusername/HangmanIOS.git
+cd HangmanIOS
+```
+
 2. Open `HangmanIOS.xcodeproj` in Xcode
 3. Build and run the project on your iOS device or simulator
 
-## Git Setup
+## Development Setup
 
-The repository includes a comprehensive `.gitignore` file specifically configured for iOS/Swift development. This ensures that only necessary source files are tracked and build artifacts, user-specific settings, and other temporary files are excluded.
+### Prerequisites
 
-To initialize the repository:
-
+1. Install Xcode from the Mac App Store
+2. Install CocoaPods if not already installed:
 ```bash
-# Navigate to the project directory
-cd HangmanIOS
-
-# Initialize git repository (if not already done)
-git init
-
-# Add all files respecting the gitignore
-git add .
-
-# Make initial commit
-git commit -m "Initial commit of Hangman iOS app"
-
-# Add remote repository (replace with your repository URL)
-git remote add origin git@github.com:Boxxxi/Hangman_ios.git
-
-# Push to remote repository
-git push -u origin main
+sudo gem install cocoapods
 ```
+
+### Building the Project
+
+1. Open the project in Xcode:
+```bash
+open HangmanIOS.xcodeproj
+```
+
+2. Select your target device (simulator or physical device)
+3. Press ⌘B to build the project
+4. Press ⌘R to run the project
+
+### Running Tests
+
+1. Open the project in Xcode
+2. Press ⌘U to run all tests
+3. View test results in the Test Navigator (⌘6)
+
+## Project Structure
+
+```
+HangmanIOS/
+├── Model/                    # Game logic and data
+│   ├── HangmanGame.swift    # Core game mechanics
+│   └── WordList.swift       # Word list management
+├── View/                    # UI components
+│   └── Main.storyboard      # Main UI layout
+├── Controller/              # View controllers
+│   └── ViewController.swift # Main game controller
+├── Resources/              # Assets and resources
+│   ├── Assets.xcassets     # Image assets
+│   └── Info.plist         # App configuration
+└── HangmanIOSTests/        # Test suite
+    └── HangmanGameTests.swift
+```
+
+### Key Components
+
+#### Model Layer
+- `HangmanGame.swift`: Manages game state, word selection, and game logic
+- `WordList.swift`: Handles word list management and random word selection
+
+#### View Layer
+- `Main.storyboard`: Contains the UI layout with:
+  - Hangman figure display
+  - Word display
+  - On-screen keyboard
+  - Game status indicators
+
+#### Controller Layer
+- `ViewController.swift`: Coordinates between model and view:
+  - Handles user input
+  - Updates UI
+  - Manages game state
+  - Shows alerts and messages
 
 ## Game Play
 
@@ -57,20 +104,33 @@ git push -u origin main
 5. You win if you guess the entire word before the hangman is complete
 6. You lose if the hangman figure is completed before you guess the word
 
-## Project Structure
+## Development Guidelines
 
-- **Model**: Contains the game logic classes
-  - `HangmanGame.swift`: Core game mechanics
-  - `WordList.swift`: List of words and random word selection
-- **View**: Contains UI elements
-  - `Main.storyboard`: Main UI layout
-- **Controller**: Contains view controllers
-  - `ViewController.swift`: Main game controller
-- **Resources**: Contains image assets and other resources
+### Code Style
+- Follow Swift style guide
+- Use meaningful variable and function names
+- Add comments for complex logic
+- Keep functions small and focused
 
-## Credits
+### Testing
+- Write unit tests for game logic
+- Test UI components
+- Verify game state transitions
+- Test edge cases
 
-This iOS implementation is based on the Java Android version of the Hangman game.
+### Performance
+- Optimize image assets
+- Minimize memory usage
+- Ensure smooth animations
+- Handle device rotation properly
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Run tests
+5. Submit a pull request
 
 ## License
 

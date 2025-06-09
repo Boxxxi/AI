@@ -8,6 +8,11 @@ GenshinAI is a Discord bot that provides personalized Genshin Impact recommendat
 - Character building and pull recommendations based on meta trends
 - Primogem acquisition recommendations
 - Natural language Q&A system for any Genshin-related questions
+- Personalized recommendations for:
+  - Character prioritization
+  - Weapon/character pulls
+  - Missing achievements
+  - Undiscovered primogem sources
 
 ## 💻 Requirements
 
@@ -84,6 +89,43 @@ python test_recommender.py
 3. The recommendation engines analyze gaps and priorities in your account
 4. Results are delivered via Discord bot or command line
 
+### Data Collection & Trust Categorization
+
+- **Trusted Sources:**
+  - Spiral Abyss usage stats
+  - HoYoLAB profile data
+  - Wiki tables (e.g., Genshin.fandom)
+- **Opinion Sources:**
+  - Reddit discussions
+  - Community tier lists
+
+### User Profile Integration
+
+- **Method 1:** HoYoLAB login cookies (ltuid, ltoken)
+- **Method 2 (limited):** Enka.Network API using UID
+
+### Recommendation Engine Modules
+
+1. **Character Development Priority**
+   - Ranks owned but undeveloped characters
+   - Sorts using meta usage rate, team synergy gaps, and role needs
+   - Outputs top 3-5 characters with reasons
+
+2. **Build Gap Suggestions**
+   - Analyzes missing roles/weapons
+   - Recommends builds/upgrades for under-equipped characters
+   - Suggests characters to aim for (future banners)
+
+3. **Easy Achievements**
+   - Compares user achievement % vs total
+   - Suggests easy/hidden 5-10 primo tasks
+   - Uses scraped lists and heuristics
+
+4. **Primogem Source Discovery**
+   - Tracks exploration %, Hangouts, Abyss stars
+   - Recommends underexplored regions and quest chains
+   - Outputs personalized checklist
+
 ## Development
 
 To run the development tools:
@@ -137,3 +179,16 @@ The pre-commit configuration includes:
 - Trailing whitespace removal
 - YAML and JSON validation
 - Markdown linting
+
+## 📊 Recommended Stack
+
+| Purpose                  | Tool/Library             |
+|--------------------------|--------------------------|
+| User Profile API         | `genshin.py`             |
+| Public Showcase          | Enka.Network API         |
+| Scraping Static Pages    | `requests` + `bs4`       |
+| LLM Agent Framework      | LangChain (optional)     |
+| Q&A Model                | GPT-3.5 / HF Transformers|
+| Discord Bot              | `discord.py`             |
+| Storage                  | JSON / SQLite / TinyDB   |
+| Scheduler (optional)     | `APScheduler`            |

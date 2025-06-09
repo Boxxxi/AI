@@ -1,10 +1,10 @@
 # NYU DS Course Game
 
-A gamified learning app designed to help NYU MS Data Science students prepare for their coursework while focusing on an AI Research career path.
+A gamified learning app designed to help NYU MS Data Science students prepare for their coursework while focusing on an AI Research career path. Available in both web and iOS versions.
 
 ## Overview
 
-This iOS application gamifies the learning process for NYU's Master of Science in Data Science program, with a special focus on courses that align with a career in AI Research. The app uses flashcards, achievements, progress tracking, and level-up mechanics to make learning more engaging and effective.
+This application gamifies the learning process for NYU's Master of Science in Data Science program, with a special focus on courses that align with a career in AI Research. The app uses flashcards, achievements, progress tracking, and level-up mechanics to make learning more engaging and effective.
 
 ## Features
 
@@ -17,6 +17,20 @@ This iOS application gamifies the learning process for NYU's Master of Science i
   - Daily challenges and streaks
 - **Progress Tracking**: Visual progress for each course and your overall AI Research readiness
 - **Course Categorization**: Courses organized by relevance to AI Research, difficulty, and category
+
+## Project Structure
+
+```
+NYUDSCourseGame/
+├── web/                    # Web implementation
+│   ├── index.html         # Main web interface
+│   ├── css/               # Stylesheets
+│   ├── js/                # JavaScript files
+│   └── assets/            # Images and other assets
+└── ios2/                   # iOS implementation
+    ├── NYUDSCourseGame/   # Main iOS app
+    └── Testgame/          # Test suite
+```
 
 ## NYU MS DS Courses for AI Research
 
@@ -53,6 +67,28 @@ The app creates a guided learning path for aspiring AI researchers:
 4. **Specialized AI Areas**: Focus on NLP, Computer Vision, or Reinforcement Learning
 5. **Research Methods**: Learn how to conduct AI research and stay current
 
+## Implementation Details
+
+### Web Version
+- Built with HTML5, CSS3, and JavaScript
+- Responsive design for all devices
+- Local storage for progress tracking
+- No server-side dependencies
+
+To run the web version:
+1. Open `web/index.html` in a modern web browser
+2. No additional setup required
+
+### iOS Version
+- Built with Swift and SwiftUI
+- MVVM architecture
+- Local data persistence with UserDefaults
+- Native iOS features and animations
+
+To run the iOS version:
+1. Open `ios2/NYUDSCourseGame.xcodeproj` in Xcode
+2. Build and run on iOS simulator or device
+
 ## How to Use
 
 1. Browse courses by category or AI research relevance
@@ -61,12 +97,17 @@ The app creates a guided learning path for aspiring AI researchers:
 4. Track your progress on the AI Research path
 5. Earn achievements and level up as you master concepts
 
-## Technical Implementation
+## Development
 
-Built with:
-- Swift and SwiftUI
-- MVVM architecture
-- Local data persistence with UserDefaults
+### Web Development
+- Edit HTML/CSS/JS files in the `web` directory
+- Test changes in a modern web browser
+- No build process required
+
+### iOS Development
+- Use Xcode 14.0+ for development
+- Follow Swift style guide
+- Run tests using the Testgame target
 
 ## Future Enhancements
 
@@ -74,6 +115,16 @@ Built with:
 - Integration with research paper summaries
 - More specialized career paths (ML Engineer, Data Engineer, etc.)
 - Content updates with new courses as the program evolves
+- Cross-platform synchronization
+- Offline mode improvements
+
+## Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test on both web and iOS platforms
+5. Submit a pull request
 
 ## Acknowledgements
 
