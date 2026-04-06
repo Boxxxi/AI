@@ -1,0 +1,44 @@
+name: AI GitHub Scraper
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 8:00 AM ET (EDT = UTC-4)
+  workflow_dispatch:        # allow manual runs from GitHub UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to commit output back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: AIGitHubScraper/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r AIGitHubScraper/requirements.txt
+
+      - name: Run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_SCRAPER_TOKEN }}
+          GMAIL_USER:   ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PW: ${{ secrets.GMAIL_APP_PW }}
+          EMAIL_TO:     ${{ secrets.EMAIL_TO }}
+        run: python AIGitHubScraper/scraper.py
+
+      - name: Commit and push output
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add AIGitHubScraper/output/
+          git diff --staged --quiet \
+            || git commit -m "chore(scraper): AI trending repos $(date +%Y-%m-%d)"
+          git push
