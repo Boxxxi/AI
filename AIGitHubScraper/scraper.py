@@ -7,7 +7,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '.env'))
 
 GITHUB_TOKEN  = os.getenv("GITHUB_TOKEN")
 GMAIL_USER    = os.getenv("GMAIL_USER")
