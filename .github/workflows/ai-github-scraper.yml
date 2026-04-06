@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add AIGitHubScraper/output/
+          git add AIGitHubScraper/InterestingRepos.md
           git diff --staged --quiet \
             || git commit -m "chore(scraper): AI trending repos $(date +%Y-%m-%d)"
           git push
