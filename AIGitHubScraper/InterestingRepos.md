@@ -386,3 +386,168 @@
 | **Why trending** | Just launched; trending in: vibe coding |
 
 > _No description provided._
+
+---
+
+## 2026-04-07 — 16 new repo(s)
+
+### 1. [milla-jovovich/mempalace](https://github.com/milla-jovovich/mempalace)
+| | |
+|---|---|
+| **Author** | milla-jovovich |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 8,029 |
+| **Topics** | llm, mcp server, ai coding, reasoning model |
+| **Why trending** | Just launched; viral (8,029 stars); trending in: llm, mcp server, ai coding |
+
+> The highest-scoring AI memory system ever benchmarked. And it's free.
+### 2. [safishamsi/graphify](https://github.com/safishamsi/graphify)
+| | |
+|---|---|
+| **Author** | safishamsi |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 4,692 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: mcp server, ai coding |
+
+> AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw). Turn any folder of code, docs, papers, or images into a queryable knowledge graph
+### 3. [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent)
+| | |
+|---|---|
+| **Author** | kevinrgu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 3,719 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> autonomous harness engineering
+### 4. [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 2,310 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
+### 5. [wquguru/harness-books](https://github.com/wquguru/harness-books)
+| | |
+|---|---|
+| **Author** | wquguru |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,208 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> _No description provided._
+### 6. [leilei926524-tech/anti-distill](https://github.com/leilei926524-tech/anti-distill)
+| | |
+|---|---|
+| **Author** | leilei926524-tech |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,164 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> 反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.
+### 7. [AICoderTudou/claude-code-tudou](https://github.com/AICoderTudou/claude-code-tudou)
+| | |
+|---|---|
+| **Author** | AICoderTudou |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 435 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> _No description provided._
+### 8. [SafeRL-Lab/cheetahclaws](https://github.com/SafeRL-Lab/cheetahclaws)
+| | |
+|---|---|
+| **Author** | SafeRL-Lab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 425 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | New release; trending in: mcp server, reasoning model |
+
+> CheetahClaws (Nano Claude Code): A Fast, Easy-to-Use, Python-Native Personal AI Assistant for Any Model, Inspired by OpenClaw and Claude Code, Built to Work for You Autonomously 24/7.
+### 9. [alchaincyf/x-mentor-skill](https://github.com/alchaincyf/x-mentor-skill)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 384 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> X导师.skill — 女娲的第一个「非人类」作品。蒸馏6位顶级X创作者方法论 + 开源算法数据，提炼完整的选题-写作-增长操作手册。Made with 女娲.skill
+### 10. [777genius/claude-code-source-code-full](https://github.com/777genius/claude-code-source-code-full)
+| | |
+|---|---|
+| **Author** | 777genius |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 301 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Full source repository for Claude Code source code
+### 11. [Austin1serb/anthropic-leaked-source-code](https://github.com/Austin1serb/anthropic-leaked-source-code)
+| | |
+|---|---|
+| **Author** | Austin1serb |
+| **Affiliation** | Serbyte Development |
+| **Stars** | ⭐ 293 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> _No description provided._
+### 12. [JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)
+| | |
+|---|---|
+| **Author** | JrCx7scC |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 287 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Claude Code complete source restoration from npm package — all native modules, no features cut
+### 13. [R6410418/Jackrong-llm-finetuning-guide](https://github.com/R6410418/Jackrong-llm-finetuning-guide)
+| | |
+|---|---|
+| **Author** | R6410418 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 278 |
+| **Topics** | llm, machine-learning, reasoning model |
+| **Why trending** | Just launched; trending in: llm, machine learning, reasoning model |
+
+> _No description provided._
+### 14. [math-ai-org/mathcode](https://github.com/math-ai-org/mathcode)
+| | |
+|---|---|
+| **Author** | math-ai-org |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 258 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> MathCode: A Frontier Mathematical Coding Agent
+### 15. [aiming-lab/AutoHarness](https://github.com/aiming-lab/AutoHarness)
+| | |
+|---|---|
+| **Author** | aiming-lab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 209 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> AutoHarness: Automated Harness Engineering for AI Agents
+### 16. [agents-io/PokeClaw](https://github.com/agents-io/PokeClaw)
+| | |
+|---|---|
+| **Author** | agents-io |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 208 |
+| **Topics** | ai-agent, reasoning model |
+| **Why trending** | Just launched; trending in: ai agent, reasoning model |
+
+> PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.
