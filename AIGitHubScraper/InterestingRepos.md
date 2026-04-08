@@ -551,3 +551,128 @@
 | **Why trending** | Just launched; trending in: ai agent, reasoning model |
 
 > PokeClaw (PocketClaw) — first on-device AI that controls your Android phone. Gemma 4, no cloud, no API key. Poke is short for Pocket.
+
+---
+
+## 2026-04-08 — 12 new repo(s)
+
+### 1. [farzaa/clicky](https://github.com/farzaa/clicky)
+| | |
+|---|---|
+| **Author** | farzaa |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,641 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> _No description provided._
+### 2. [afar1/fieldtheory-cli](https://github.com/afar1/fieldtheory-cli)
+| | |
+|---|---|
+| **Author** | afar1 |
+| **Affiliation** | Density |
+| **Stars** | ⭐ 1,200 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> Sync and locally store all of your X/Twitter bookmarks. Free and open source CLI for Mac.
+### 3. [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills)
+| | |
+|---|---|
+| **Author** | KKKKhazix |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,122 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> 数字生命卡兹克开源的 AI Skills 合集
+### 4. [mattmireles/gemma-tuner-multimodal](https://github.com/mattmireles/gemma-tuner-multimodal)
+| | |
+|---|---|
+| **Author** | mattmireles |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 480 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Fine-tune Gemma 4 and 3n with audio, images and text on Apple Silicon, using PyTorch and Metal Performance Shaders.
+### 5. [Houseofmvps/codesight](https://github.com/Houseofmvps/codesight)
+| | |
+|---|---|
+| **Author** | Houseofmvps |
+| **Affiliation** | houseofmvps.com |
+| **Stars** | ⭐ 362 |
+| **Topics** | llm, mcp server |
+| **Why trending** | Just launched; trending in: llm, mcp server |
+
+> Universal AI context generator. Saves thousands of tokens per conversation in Claude Code, Cursor, Copilot, Codex, and more.
+### 6. [ProjectBarks/gopher-code](https://github.com/ProjectBarks/gopher-code)
+| | |
+|---|---|
+| **Author** | ProjectBarks |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 346 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Claude Code, rewritten from scratch in Go. Zero Node.js. Zero Electron. One binary.
+### 7. [freestylefly/wechat-cli](https://github.com/freestylefly/wechat-cli)
+| | |
+|---|---|
+| **Author** | freestylefly |
+| **Affiliation** | 向上生长 |
+| **Stars** | ⭐ 271 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> A CLI tool to query your local WeChat data — chat history, contacts, sessions, favorites, and more. Designed for LLM integration.
+### 8. [WeianMao/triattention](https://github.com/WeianMao/triattention)
+| | |
+|---|---|
+| **Author** | WeianMao |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 271 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> TriAttention — Efficient long reasoning with trigonometric KV cache compression. Enables OpenClaw local deployment on memory-constrained GPUs.
+### 9. [MME-Benchmarks/Video-MME-v2](https://github.com/MME-Benchmarks/Video-MME-v2)
+| | |
+|---|---|
+| **Author** | MME-Benchmarks |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 253 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
+### 10. [pacifio/cersei](https://github.com/pacifio/cersei)
+| | |
+|---|---|
+| **Author** | pacifio |
+| **Affiliation** | antarys-ai |
+| **Stars** | ⭐ 236 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> The Rust SDK for building coding agents. Tool execution, LLM streaming, graph memory, sub-agent orchestration, MCP — as composable library functions.
+### 11. [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler)
+| | |
+|---|---|
+| **Author** | atomicmemory |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 233 |
+| **Topics** | llm, mcp server |
+| **Why trending** | Just launched; trending in: llm, mcp server |
+
+> The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
+### 12. [xoai/sage-wiki](https://github.com/xoai/sage-wiki)
+| | |
+|---|---|
+| **Author** | xoai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 231 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.
