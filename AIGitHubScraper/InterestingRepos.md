@@ -676,3 +676,78 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > An LLM-compiled personal knowledge base.  Drop in your papers, articles, and notes. sage-wiki compiles them into a structured, interlinked wiki — with concepts extracted, cross-references discovered, and everything searchable.
+
+---
+
+## 2026-04-09 — 7 new repo(s)
+
+### 1. [alchaincyf/zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,652 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> 张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。
+### 2. [xixu-me/awesome-persona-distill-skills](https://github.com/xixu-me/awesome-persona-distill-skills)
+| | |
+|---|---|
+| **Author** | xixu-me |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,391 |
+| **Topics** | vibe coding, ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: vibe coding, ai coding |
+
+> 同事.skill、前任.skill、女娲.skill、自己.skill、乔布斯.skill……
+### 3. [brooks376/Happy-Horse-1.0](https://github.com/brooks376/Happy-Horse-1.0)
+| | |
+|---|---|
+| **Author** | brooks376 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 480 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Information collection for the Happy Horse AI video generator model. Official demo and updates at happyhorses.io.
+### 4. [SAGAR-TAMANG/friday-tony-stark-demo](https://github.com/SAGAR-TAMANG/friday-tony-stark-demo)
+| | |
+|---|---|
+| **Author** | SAGAR-TAMANG |
+| **Affiliation** | Indian Institute of Technology Patna |
+| **Stars** | ⭐ 298 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Demo of tools of capabilities of Tony Stark.
+### 5. [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+| | |
+|---|---|
+| **Author** | AgriciDaniel |
+| **Affiliation** | Rankenstein |
+| **Stars** | ⭐ 249 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+### 6. [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki)
+| | |
+|---|---|
+| **Author** | Ar9av |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 232 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Framework for AI agents to build and maintain an Obsidian wiki using Karpathy's LLM Wiki pattern
+### 7. [cporter202/agentic-ai-apis](https://github.com/cporter202/agentic-ai-apis)
+| | |
+|---|---|
+| **Author** | cporter202 |
+| **Affiliation** | viralwavestudio |
+| **Stars** | ⭐ 214 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.
