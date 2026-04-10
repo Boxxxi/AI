@@ -751,3 +751,68 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > The ultimate collection of APIs for building autonomous AI agents — 2,036 production-ready APIs across Agents, AI Models, and MCP Servers. Stop wasting weeks building infrastructure. Plug these in and ship your agent today.
+
+---
+
+## 2026-04-10 — 6 new repo(s)
+
+### 1. [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,329 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
+### 2. [garrytan/gbrain](https://github.com/garrytan/gbrain)
+| | |
+|---|---|
+| **Author** | garrytan |
+| **Affiliation** | Y Combinator |
+| **Stars** | ⭐ 813 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | New release; trending in: mcp server, ai coding |
+
+> Garry's Opinionated OpenClaw/Hermes Agent Brain
+### 3. [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+| | |
+|---|---|
+| **Author** | nashsu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 480 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+### 4. [whwangovo/pyre-code](https://github.com/whwangovo/pyre-code)
+| | |
+|---|---|
+| **Author** | whwangovo |
+| **Affiliation** | Fudan University |
+| **Stars** | ⭐ 435 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A self-hosted ML coding practice platform. 68 problems from ReLU to flow matching — attention, training, RLHF, diffusion, and more. Instant feedback in the browser.
+### 5. [Xiangyue-Zhang/auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
+| | |
+|---|---|
+| **Author** | Xiangyue-Zhang |
+| **Affiliation** | ByteDance |
+| **Stars** | ⭐ 210 |
+| **Topics** | ai-agent, machine-learning, deep-learning |
+| **Why trending** | Just launched; trending in: ai agent, machine learning, deep learning |
+
+> 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory.
+### 6. [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki)
+| | |
+|---|---|
+| **Author** | Astro-Han |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 209 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> One skill to build your own Karpathy-style LLM wiki.
