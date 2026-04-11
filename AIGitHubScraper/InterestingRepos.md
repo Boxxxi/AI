@@ -816,3 +816,48 @@
 | **Why trending** | New release; trending in: llm |
 
 > One skill to build your own Karpathy-style LLM wiki.
+
+---
+
+## 2026-04-11 — 4 new repo(s)
+
+### 1. [wxtsky/CodeIsland](https://github.com/wxtsky/CodeIsland)
+| | |
+|---|---|
+| **Author** | wxtsky |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 816 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> _No description provided._
+### 2. [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph)
+| | |
+|---|---|
+| **Author** | yizhiyanhua-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 595 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Claude Code skill for generating production-quality SVG+PNG technical diagrams. Supports 8 diagram types, 5 visual styles, and deep AI/Agent domain knowledge.
+### 3. [Tencent-Hunyuan/HY-Embodied](https://github.com/Tencent-Hunyuan/HY-Embodied)
+| | |
+|---|---|
+| **Author** | Tencent-Hunyuan |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 342 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> _No description provided._
+### 4. [xicilion/boxsh](https://github.com/xicilion/boxsh)
+| | |
+|---|---|
+| **Author** | xicilion |
+| **Affiliation** | 江苏第三极 |
+| **Stars** | ⭐ 213 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> A sandboxed POSIX shell with a concurrent JSON-line RPC mode
