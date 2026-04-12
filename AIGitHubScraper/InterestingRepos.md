@@ -861,3 +861,68 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > A sandboxed POSIX shell with a concurrent JSON-line RPC mode
+
+---
+
+## 2026-04-12 — 6 new repo(s)
+
+### 1. [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler)
+| | |
+|---|---|
+| **Author** | coleam00 |
+| **Affiliation** | Dynamous |
+| **Stars** | ⭐ 589 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.
+### 2. [joyehuang/Learn-Open-Harness](https://github.com/joyehuang/Learn-Open-Harness)
+| | |
+|---|---|
+| **Author** | joyehuang |
+| **Affiliation** | Tezign Shanghai |
+| **Stars** | ⭐ 222 |
+| **Topics** | llm, generative-ai, ai-agent |
+| **Why trending** | New release; trending in: llm, generative ai, ai agent |
+
+> 🤖 Official Interactive Tutorial for OpenHarness – Zero to Hero in 12 Chapters | Learn OpenHarness like Claude Code: Agent Loop, Tools, Memory, Multi-Agent | 面向零基础的 AI Agent 交互式教程
+### 3. [EvolutionAPI/evo-nexus](https://github.com/EvolutionAPI/evo-nexus)
+| | |
+|---|---|
+| **Author** | EvolutionAPI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 213 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> The open source operating system for AI-powered businesses — built on Claude Code
+### 4. [imbue-ai/bouncer](https://github.com/imbue-ai/bouncer)
+| | |
+|---|---|
+| **Author** | imbue-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 213 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Heal your social media feeds
+### 5. [mrT4ntr4/NtWarden](https://github.com/mrT4ntr4/NtWarden)
+| | |
+|---|---|
+| **Author** | mrT4ntr4 |
+| **Affiliation** | Team Dc1ph3R |
+| **Stars** | ⭐ 209 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Windows Analysis and Research Toolkit
+### 6. [WenXiaoWendy/cyberboss](https://github.com/WenXiaoWendy/cyberboss)
+| | |
+|---|---|
+| **Author** | WenXiaoWendy |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> _No description provided._
