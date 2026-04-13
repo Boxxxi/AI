@@ -926,3 +926,58 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > _No description provided._
+
+---
+
+## 2026-04-13 — 5 new repo(s)
+
+### 1. [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal)
+| | |
+|---|---|
+| **Author** | hexiecs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 591 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Make any LLM talk like a normal person. A system prompt that removes AI slop.
+### 2. [alchaincyf/obsidian-ai-orange-book](https://github.com/alchaincyf/obsidian-ai-orange-book)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 518 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Obsidian + Claude Code: Rebuild Your Second Brain with AI · 橙皮书系列 · 用AI重建你的第二大脑
+### 3. [dominikmartn/ProgressiveBlurHeader](https://github.com/dominikmartn/ProgressiveBlurHeader)
+| | |
+|---|---|
+| **Author** | dominikmartn |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 368 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Drop-in SwiftUI component for sticky headers with progressive blur — like Apple Music, Photos, and App Store. Content scrolls underneath with increasing blur, never clipped.
+### 4. [bitjaru/styleseed](https://github.com/bitjaru/styleseed)
+| | |
+|---|---|
+| **Author** | bitjaru |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 205 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> Claude Code & Cursor design system. Stop generating ugly AI UI. 69 design rules + 48 shadcn components + Toss/Stripe/Linear/Vercel/Notion brand skins. Tailwind v4 + Radix.
+### 5. [OpenMOSS/MOSS-VL](https://github.com/OpenMOSS/MOSS-VL)
+| | |
+|---|---|
+| **Author** | OpenMOSS |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding.
