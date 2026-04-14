@@ -981,3 +981,78 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > MOSS-VL is the core multimodal model series within the OpenMOSS ecosystem, dedicated to visual understanding.
+
+---
+
+## 2026-04-14 — 7 new repo(s)
+
+### 1. [momenbasel/PureMac](https://github.com/momenbasel/PureMac)
+| | |
+|---|---|
+| **Author** | momenbasel |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,365 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.
+### 2. [OpenMOSS/MOSS-TTS-Nano](https://github.com/OpenMOSS/MOSS-TTS-Nano)
+| | |
+|---|---|
+| **Author** | OpenMOSS |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 626 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> MOSS-TTS-Nano is an open-source multilingual tiny speech generation model from MOSI.AI and the OpenMOSS team. With only 0.1B parameters, it is designed for realtime speech generation, can run directly on CPU without a GPU, and keeps the deployment stack simple enough for local demos, web serving, and lightweight product integration.
+### 3. [Mouseww/anything-analyzer](https://github.com/Mouseww/anything-analyzer)
+| | |
+|---|---|
+| **Author** | Mouseww |
+| **Affiliation** | Kyrgyzstan College of Development and Creativity |
+| **Stars** | ⭐ 555 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> 利用 browser + CDP capture + AI analysis  傻瓜式生成 注册机 | 2API | 其他浏览器行为 的协议分析文档
+### 4. [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw)
+| | |
+|---|---|
+| **Author** | AMAP-ML |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 527 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Let Skills Evolve Collectively with Agentic Evolver 
+### 5. [AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)
+| | |
+|---|---|
+| **Author** | AgentSeal |
+| **Affiliation** | Agentseal |
+| **Stars** | ⭐ 491 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> See where your AI coding tokens go. Interactive TUI dashboard for Claude Code and Codex cost observability.
+### 6. [amitshekhariitbhu/llm-internals](https://github.com/amitshekhariitbhu/llm-internals)
+| | |
+|---|---|
+| **Author** | amitshekhariitbhu |
+| **Affiliation** | OutcomeSchool |
+| **Stars** | ⭐ 274 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Learn LLM internals step by step - from tokenization to attention to inference optimization.
+### 7. [1270011/claude-buddy](https://github.com/1270011/claude-buddy)
+| | |
+|---|---|
+| **Author** | 1270011 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update
