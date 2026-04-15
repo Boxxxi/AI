@@ -1056,3 +1056,58 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update
+
+---
+
+## 2026-04-15 — 5 new repo(s)
+
+### 1. [alchaincyf/darwin-skill](https://github.com/alchaincyf/darwin-skill)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 760 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 达尔文.skill —— 一个让你的Skill无限进化的系统：评估→改进→测试→保留或回滚 | Autoresearch-inspired autonomous skill optimization for Claude Code. Evaluate, improve, test, keep or revert.
+### 2. [bstnxbt/dflash-mlx](https://github.com/bstnxbt/dflash-mlx)
+| | |
+|---|---|
+| **Author** | bstnxbt |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 406 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Lossless DFlash speculative decoding for MLX on Apple Silicon
+### 3. [V-IOLE-T/hotmail-register-extension](https://github.com/V-IOLE-T/hotmail-register-extension)
+| | |
+|---|---|
+| **Author** | V-IOLE-T |
+| **Affiliation** | Harbin Institute of Technology (Weihai) |
+| **Stars** | ⭐ 284 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 基于Outlook Email的Chrome扩展：支持OpenAI OAuth古法注册与账号标签管理
+### 4. [skyllwt/OmegaWiki](https://github.com/skyllwt/OmegaWiki)
+| | |
+|---|---|
+| **Author** | skyllwt |
+| **Affiliation** | Peking university |
+| **Stars** | ⭐ 235 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code
+### 5. [MiniMax-AI/MiniMax-M2.7](https://github.com/MiniMax-AI/MiniMax-M2.7)
+| | |
+|---|---|
+| **Author** | MiniMax-AI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 206 |
+| **Topics** | vibe coding, reasoning model |
+| **Why trending** | New release; trending in: vibe coding, reasoning model |
+
+> _No description provided._
