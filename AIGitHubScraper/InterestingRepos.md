@@ -1111,3 +1111,88 @@
 | **Why trending** | New release; trending in: vibe coding, reasoning model |
 
 > _No description provided._
+
+---
+
+## 2026-04-16 — 8 new repo(s)
+
+### 1. [Tencent-Hunyuan/HY-World-2.0](https://github.com/Tencent-Hunyuan/HY-World-2.0)
+| | |
+|---|---|
+| **Author** | Tencent-Hunyuan |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 640 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
+### 2. [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract)
+| | |
+|---|---|
+| **Author** | Manavarya09 |
+| **Affiliation** | MIT |
+| **Stars** | ⭐ 547 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Extract the complete design language from any website — colors, typography, spacing, shadows, and more. npx CLI + Claude Code plugin.
+### 3. [WeaveMindAI/weft](https://github.com/WeaveMindAI/weft)
+| | |
+|---|---|
+| **Author** | WeaveMindAI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 533 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A programming language for AI systems
+### 4. [mohi-devhub/antivibe](https://github.com/mohi-devhub/antivibe)
+| | |
+|---|---|
+| **Author** | mohi-devhub |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 453 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Learn what AI writes, not just accept it. A Claude Code skill that turns AI-generated code into educational deep dives.
+### 5. [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui)
+| | |
+|---|---|
+| **Author** | EKKOLearnAI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 366 |
+| **Topics** | llm, ai-agent, reasoning model |
+| **Why trending** | New release; trending in: llm, ai agent, reasoning model |
+
+> Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics & channel configuration (Telegram, Discord, Slack, WhatsApp)
+### 6. [redai-infra/Relax](https://github.com/redai-infra/Relax)
+| | |
+|---|---|
+| **Author** | redai-infra |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 232 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> An Asynchronous Reinforcement Learning Engine for Omni-Modal Post-Training at Scale
+### 7. [nesaminua/claude-code-lsp-enforcement-kit](https://github.com/nesaminua/claude-code-lsp-enforcement-kit)
+| | |
+|---|---|
+| **Author** | nesaminua |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 206 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Hooks that force Claude Code to use LSP instead of Grep for code navigation. Saves   ~80% tokens
+### 8. [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image)
+| | |
+|---|---|
+| **Author** | baidu |
+| **Affiliation** | Baidu |
+| **Stars** | ⭐ 203 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
