@@ -1196,3 +1196,48 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
+
+---
+
+## 2026-04-17 — 4 new repo(s)
+
+### 1. [wbh604/UZI-Skill](https://github.com/wbh604/UZI-Skill)
+| | |
+|---|---|
+| **Author** | wbh604 |
+| **Affiliation** | FloatFu-true |
+| **Stars** | ⭐ 636 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 51位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 
+### 2. [op7418/logo-generator-skill](https://github.com/op7418/logo-generator-skill)
+| | |
+|---|---|
+| **Author** | op7418 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 543 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> logo-generator-skill
+### 3. [stanford-iris-lab/meta-harness](https://github.com/stanford-iris-lab/meta-harness)
+| | |
+|---|---|
+| **Author** | stanford-iris-lab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 408 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Reference code for the Meta-Harness paper.
+### 4. [bergside/design-md-chrome](https://github.com/bergside/design-md-chrome)
+| | |
+|---|---|
+| **Author** | bergside |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 343 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
