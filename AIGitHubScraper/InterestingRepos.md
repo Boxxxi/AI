@@ -1241,3 +1241,38 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI
+
+---
+
+## 2026-04-18 — 3 new repo(s)
+
+### 1. [Lazarus-AI/clearwing](https://github.com/Lazarus-AI/clearwing)
+| | |
+|---|---|
+| **Author** | Lazarus-AI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 585 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
+### 2. [codejunkie99/agentic-stack](https://github.com/codejunkie99/agentic-stack)
+| | |
+|---|---|
+| **Author** | codejunkie99 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 426 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.
+### 3. [mukul975/cve-mcp-server](https://github.com/mukul975/cve-mcp-server)
+| | |
+|---|---|
+| **Author** | mukul975 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 223 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
