@@ -1276,3 +1276,48 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.
+
+---
+
+## 2026-04-19 — 4 new repo(s)
+
+### 1. [getagentseal/codeburn](https://github.com/getagentseal/codeburn)
+| | |
+|---|---|
+| **Author** | getagentseal |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 2,773 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | New release; rapidly growing; trending in: mcp server, ai coding |
+
+> See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+### 2. [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+| | |
+|---|---|
+| **Author** | cathrynlavery |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 529 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+### 3. [kyegomez/OpenMythos](https://github.com/kyegomez/OpenMythos)
+| | |
+|---|---|
+| **Author** | kyegomez |
+| **Affiliation** | Swarms |
+| **Stars** | ⭐ 418 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
+### 4. [VoltAgent/awesome-claude-design](https://github.com/VoltAgent/awesome-claude-design)
+| | |
+|---|---|
+| **Author** | VoltAgent |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 349 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
