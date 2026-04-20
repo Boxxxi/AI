@@ -1321,3 +1321,48 @@
 | **Why trending** | Just launched; trending in: vibe coding |
 
 > Awesome Claude Design: 68 ready-to-use design system inspirations in DESIGN.md format. Drop one in, scaffold a full UI in one shot.
+
+---
+
+## 2026-04-20 — 4 new repo(s)
+
+### 1. [EvoLinkAI/awesome-gpt-image-2-prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+| | |
+|---|---|
+| **Author** | EvoLinkAI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 765 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.
+### 2. [techjarves/USB-Uncensored-LLM](https://github.com/techjarves/USB-Uncensored-LLM)
+| | |
+|---|---|
+| **Author** | techjarves |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 281 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.
+### 3. [OranAi-Ltd/oransim](https://github.com/OranAi-Ltd/oransim)
+| | |
+|---|---|
+| **Author** | OranAi-Ltd |
+| **Affiliation** | OranAI.Ltd |
+| **Stars** | ⭐ 248 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Causal Digital Twin for Marketing at Scale · Predict any marketing decision before you spend a dollar.
+### 4. [Ademking/MD-This-Page](https://github.com/Ademking/MD-This-Page)
+| | |
+|---|---|
+| **Author** | Ademking |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 231 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Convert any web page to clean, readable Markdown with just one click.
