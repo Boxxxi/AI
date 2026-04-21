@@ -1366,3 +1366,68 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > Convert any web page to clean, readable Markdown with just one click.
+
+---
+
+## 2026-04-21 — 6 new repo(s)
+
+### 1. [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,921 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
+### 2. [ZeroZ-lab/cc-design](https://github.com/ZeroZ-lab/cc-design)
+| | |
+|---|---|
+| **Author** | ZeroZ-lab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 535 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> High-fidelity HTML design and prototype guidance skill for AI agents
+### 3. [gridex/gridex](https://github.com/gridex/gridex)
+| | |
+|---|---|
+| **Author** | gridex |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 270 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> A native macOS / windows database IDE built with Swift and AppKit. Connect to PostgreSQL, MySQL, SQLite, and Redis from a single app with a fast, keyboard-driven interface.
+### 4. [cosmicstack-labs/mercury-agent](https://github.com/cosmicstack-labs/mercury-agent)
+| | |
+|---|---|
+| **Author** | cosmicstack-labs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 269 |
+| **Topics** | llm, ai-agent |
+| **Why trending** | Just launched; trending in: llm, ai agent |
+
+> Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.
+### 5. [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use)
+| | |
+|---|---|
+| **Author** | iFurySt |
+| **Affiliation** | ByteDance |
+| **Stars** | ⭐ 213 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
+### 6. [rohitg00/awesome-claude-design](https://github.com/rohitg00/awesome-claude-design)
+| | |
+|---|---|
+| **Author** | rohitg00 |
+| **Affiliation** | Google |
+| **Stars** | ⭐ 209 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
