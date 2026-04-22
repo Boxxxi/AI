@@ -1431,3 +1431,58 @@
 | **Why trending** | Just launched; trending in: mcp server, reasoning model |
 
 > Claude Design DESIGN.md prompts by aesthetic family, remix recipes, skills, video teardowns, X signal, honest community takes.
+
+---
+
+## 2026-04-22 — 5 new repo(s)
+
+### 1. [tw93/Kami](https://github.com/tw93/Kami)
+| | |
+|---|---|
+| **Author** | tw93 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 2,291 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> 👩‍🚒 Good content deserves good paper.
+### 2. [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign)
+| | |
+|---|---|
+| **Author** | OpenCoworkAI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 976 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
+### 3. [jackwener/wx-cli](https://github.com/jackwener/wx-cli)
+| | |
+|---|---|
+| **Author** | jackwener |
+| **Affiliation** | MIT |
+| **Stars** | ⭐ 475 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> WeChat local data CLI with daemon architecture
+### 4. [leigest519/OpenGame](https://github.com/leigest519/OpenGame)
+| | |
+|---|---|
+| **Author** | leigest519 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 313 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> OpenGame: Open Agentic Coding for Games
+### 5. [yzhao062/agent-style](https://github.com/yzhao062/agent-style)
+| | |
+|---|---|
+| **Author** | yzhao062 |
+| **Affiliation** | University of Southern California |
+| **Stars** | ⭐ 239 |
+| **Topics** | llm, reasoning model |
+| **Why trending** | Just launched; trending in: llm, reasoning model |
+
+> 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.
