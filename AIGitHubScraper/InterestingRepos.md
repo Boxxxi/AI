@@ -1486,3 +1486,28 @@
 | **Why trending** | Just launched; trending in: llm, reasoning model |
 
 > 21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.
+
+---
+
+## 2026-04-23 — 2 new repo(s)
+
+### 1. [ConardLi/web-design-skill](https://github.com/ConardLi/web-design-skill)
+| | |
+|---|---|
+| **Author** | ConardLi |
+| **Affiliation** | ByteDance |
+| **Stars** | ⭐ 616 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> An AI agent skill that transforms AI-generated web pages from "functional" to "stunning."(Inspired by Claude Design)
+### 2. [espressif/esp-claw](https://github.com/espressif/esp-claw)
+| | |
+|---|---|
+| **Author** | espressif |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 227 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | New release; trending in: mcp server, reasoning model |
+
+> ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
