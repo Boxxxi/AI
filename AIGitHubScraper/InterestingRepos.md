@@ -1511,3 +1511,58 @@
 | **Why trending** | New release; trending in: mcp server, reasoning model |
 
 > ESP-Claw, a "Chat Coding" AI agent framework for IoT devices
+
+---
+
+## 2026-04-24 — 5 new repo(s)
+
+### 1. [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill)
+| | |
+|---|---|
+| **Author** | op7418 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,457 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+### 2. [deepseek-ai/TileKernels](https://github.com/deepseek-ai/TileKernels)
+| | |
+|---|---|
+| **Author** | deepseek-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 999 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A kernel library written in tilelang
+### 3. [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi)
+| | |
+|---|---|
+| **Author** | tashfeenahmed |
+| **Affiliation** | Microsoft |
+| **Stars** | ⭐ 277 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> OpenAI-compatible proxy that aggregates free-tier keys from ~14 AI providers with automatic failover. For personal experimentation only.
+### 4. [Tencent-Hunyuan/Hy3-preview](https://github.com/Tencent-Hunyuan/Hy3-preview)
+| | |
+|---|---|
+| **Author** | Tencent-Hunyuan |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 214 |
+| **Topics** | vibe coding, reasoning model |
+| **Why trending** | Just launched; trending in: vibe coding, reasoning model |
+
+> Hy3 preview (295B A21B), a leading reasoning and agent model in its size, with great cost efficiency
+### 5. [wuyoscar/gpt_image_2_skill](https://github.com/wuyoscar/gpt_image_2_skill)
+| | |
+|---|---|
+| **Author** | wuyoscar |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Curated T2I prompts and skill/CLI wrappers for GPT Image 2
