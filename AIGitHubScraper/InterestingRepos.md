@@ -1566,3 +1566,68 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > Curated T2I prompts and skill/CLI wrappers for GPT Image 2
+
+---
+
+## 2026-04-25 — 6 new repo(s)
+
+### 1. [Einsia/OpenChronicle](https://github.com/Einsia/OpenChronicle)
+| | |
+|---|---|
+| **Author** | Einsia |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 955 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
+### 2. [TheRealSeanDonahoe/agents-md](https://github.com/TheRealSeanDonahoe/agents-md)
+| | |
+|---|---|
+| **Author** | TheRealSeanDonahoe |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 509 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.
+### 3. [GammaLabTechnologies/harmonist](https://github.com/GammaLabTechnologies/harmonist)
+| | |
+|---|---|
+| **Author** | GammaLabTechnologies |
+| **Affiliation** | GammaLab Technologies |
+| **Stars** | ⭐ 503 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.
+### 4. [future-agi/future-agi](https://github.com/future-agi/future-agi)
+| | |
+|---|---|
+| **Author** | future-agi |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 327 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.
+### 5. [chekusu/wanman](https://github.com/chekusu/wanman)
+| | |
+|---|---|
+| **Author** | chekusu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 221 |
+| **Topics** | llm, reasoning model |
+| **Why trending** | Just launched; trending in: llm, reasoning model |
+
+> wanman is an open-source agent matrix runtime inspired by Japanese one-man trains. It lets human users step back into an observer role while local agent runtimes coordinate autonomous multi-agent workflows, task execution, and artifacts.
+### 6. [dezgit2025/auto-memory](https://github.com/dezgit2025/auto-memory)
+| | |
+|---|---|
+| **Author** | dezgit2025 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 203 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Your AI coding agent never forgets — progressive session recall CLI
