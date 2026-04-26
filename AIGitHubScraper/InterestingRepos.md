@@ -1631,3 +1631,48 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > Your AI coding agent never forgets — progressive session recall CLI
+
+---
+
+## 2026-04-26 — 4 new repo(s)
+
+### 1. [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills)
+| | |
+|---|---|
+| **Author** | ConardLi |
+| **Affiliation** | ByteDance |
+| **Stars** | ⭐ 1,324 |
+| **Topics** | rag, ai coding |
+| **Why trending** | New release; rapidly growing; trending in: rag, ai coding |
+
+> ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.
+### 2. [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper)
+| | |
+|---|---|
+| **Author** | openclaw |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 851 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
+### 3. [thClaws/thClaws](https://github.com/thClaws/thClaws)
+| | |
+|---|---|
+| **Author** | thClaws |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 412 |
+| **Topics** | ai-agent, mcp server |
+| **Why trending** | New release; trending in: ai agent, mcp server |
+
+> Open-source agent harness platform. Native Rust, multi-provider, runs on your own machine. Sovereign by design.
+### 4. [alash3al/stash](https://github.com/alash3al/stash)
+| | |
+|---|---|
+| **Author** | alash3al |
+| **Affiliation** | cartona, @speakol-ads |
+| **Stars** | ⭐ 268 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
