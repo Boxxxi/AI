@@ -1676,3 +1676,38 @@
 | **Why trending** | Just launched; trending in: mcp server |
 
 > Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.
+
+---
+
+## 2026-04-27 — 3 new repo(s)
+
+### 1. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+| | |
+|---|---|
+| **Author** | freestylefly |
+| **Affiliation** | 向上生长 |
+| **Stars** | ⭐ 1,125 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> Prompt as Code | GPT-Image2 工业级提示词引擎与模板库 - 329个案例逆向工程，13套工业级模板
+### 2. [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai)
+| | |
+|---|---|
+| **Author** | epoko77-ai |
+| **Affiliation** | MIT |
+| **Stars** | ⭐ 489 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> AI가 쓴 글이 아닌 것처럼 윤문해주는 스킬
+### 3. [TheTom/vllm-swift](https://github.com/TheTom/vllm-swift)
+| | |
+|---|---|
+| **Author** | TheTom |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 212 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon
