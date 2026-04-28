@@ -1711,3 +1711,28 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > vLLM Metal plugin powered by mlx-swift — high-performance LLM inference on Apple Silicon
+
+---
+
+## 2026-04-28 — 2 new repo(s)
+
+### 1. [nexu-io/open-design](https://github.com/nexu-io/open-design)
+| | |
+|---|---|
+| **Author** | nexu-io |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 487 |
+| **Topics** | llm, generative-ai, ai coding |
+| **Why trending** | Just launched; trending in: llm, generative ai, ai coding |
+
+> 🎨 Local-first open replica of Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Cursor / Gemini CLI / OpenCode / Qwen.
+### 2. [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills)
+| | |
+|---|---|
+| **Author** | charlie947 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 429 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> _No description provided._
