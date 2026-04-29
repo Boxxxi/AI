@@ -1736,3 +1736,48 @@
 | **Why trending** | New release; trending in: ai coding |
 
 > _No description provided._
+
+---
+
+## 2026-04-29 — 4 new repo(s)
+
+### 1. [levelsio/superlevels](https://github.com/levelsio/superlevels)
+| | |
+|---|---|
+| **Author** | levelsio |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 433 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A super Chrome extension I made that's safer than installing external malware/spyware-filled extensions that form a massive security risk, this one is open source and you can read and check the source code (with AI) before you install it, and customize it to your liking!
+### 2. [seulee26/mckinsey-pptx](https://github.com/seulee26/mckinsey-pptx)
+| | |
+|---|---|
+| **Author** | seulee26 |
+| **Affiliation** | AX Labs |
+| **Stars** | ⭐ 342 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> McKinsey-style PPTX generator — Claude Code plugin with 40 slide templates + subagent that picks the right template and defends its choice. Built by AX Labs (이승필).
+### 3. [evanklem/evanflow](https://github.com/evanklem/evanflow)
+| | |
+|---|---|
+| **Author** | evanklem |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 341 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A TDD-driven iterative feedback loop for software development. 16 cohesive Claude Code skills walk an idea from brainstorm → plan → execute → iterate, with checkpoints throughout.
+### 4. [helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt)
+| | |
+|---|---|
+| **Author** | helloianneo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | ai-agent |
+| **Why trending** | Just launched; trending in: ai agent |
+
+> 中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出
