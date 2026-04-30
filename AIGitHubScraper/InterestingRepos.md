@@ -1781,3 +1781,88 @@
 | **Why trending** | Just launched; trending in: ai agent |
 
 > 中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出
+
+---
+
+## 2026-04-30 — 8 new repo(s)
+
+### 1. [GENEXIS-AI/chromex](https://github.com/GENEXIS-AI/chromex)
+| | |
+|---|---|
+| **Author** | GENEXIS-AI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 606 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A Codex-powered Chrome side-panel assistant for page context, tabs, voice, and image workflows.
+### 2. [Fokkyp/SoftwareCopyright-Skill](https://github.com/Fokkyp/SoftwareCopyright-Skill)
+| | |
+|---|---|
+| **Author** | Fokkyp |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 480 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 中国软件著作权申请材料 生成器 Skills，本 Skills 通过阅读本地项目，自动生成全套 .docx 软著申请材料，全开源，无须再付费购买任何软著申请服务
+### 3. [deepseek-ai/Thinking-with-Visual-Primitives](https://github.com/deepseek-ai/Thinking-with-Visual-Primitives)
+| | |
+|---|---|
+| **Author** | deepseek-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 396 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> _No description provided._
+### 4. [t8y2/dbx](https://github.com/t8y2/dbx)
+| | |
+|---|---|
+| **Author** | t8y2 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 379 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Open-source, lightweight, cross-platform database client. Supports MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, ClickHouse, SQL Server.
+### 5. [deepseek-ai/awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)
+| | |
+|---|---|
+| **Author** | deepseek-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 378 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> _No description provided._
+### 6. [val1813/kwcode](https://github.com/val1813/kwcode)
+| | |
+|---|---|
+| **Author** | val1813 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 345 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 一个能持续增强本地开源模型的cli，专门为本地部署模型优化的coding窗口。目前仍然处于mvp未能大规模测试和端到端跑通，欢迎指正🙏🏻🙏🏻🙏🏻
+### 7. [sandeco/reversa](https://github.com/sandeco/reversa)
+| | |
+|---|---|
+| **Author** | sandeco |
+| **Affiliation** | sandeco |
+| **Stars** | ⭐ 237 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> Transform legacy systems into executable specifications for AI coding agents
+### 8. [arcsin1/oh-my-ppt](https://github.com/arcsin1/oh-my-ppt)
+| | |
+|---|---|
+| **Author** | arcsin1 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 213 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck.
