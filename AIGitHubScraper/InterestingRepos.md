@@ -1866,3 +1866,28 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > Local-first AI PPT generator with Desktop APP for entrepreneurs. Clean HTML slides, no cloud lock-in. Write prompt → get deck.
+
+---
+
+## 2026-05-01 — 2 new repo(s)
+
+### 1. [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding)
+| | |
+|---|---|
+| **Author** | mattpocock |
+| **Affiliation** | Total TypeScript |
+| **Stars** | ⭐ 273 |
+| **Topics** | vibe coding, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: vibe coding, ai coding, reasoning model |
+
+> AI coding jargon, explained in plain English.
+### 2. [EvanBacon/serve-sim](https://github.com/EvanBacon/serve-sim)
+| | |
+|---|---|
+| **Author** | EvanBacon |
+| **Affiliation** | expo |
+| **Stars** | ⭐ 264 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> The `npx serve` of Apple Simulators.
