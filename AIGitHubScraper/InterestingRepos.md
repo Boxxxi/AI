@@ -1891,3 +1891,38 @@
 | **Why trending** | Just launched; trending in: mcp server |
 
 > The `npx serve` of Apple Simulators.
+
+---
+
+## 2026-05-02 — 3 new repo(s)
+
+### 1. [appergb/openless](https://github.com/appergb/openless)
+| | |
+|---|---|
+| **Author** | appergb |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 273 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
+### 2. [tgies/copy-fail-c](https://github.com/tgies/copy-fail-c)
+| | |
+|---|---|
+| **Author** | tgies |
+| **Affiliation** | Crash United, LLC |
+| **Stars** | ⭐ 219 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Cross-platform C port of the Copy Fail Linux LPE (CVE-2026-31431). Disclosed 2026-04-29 by Theori / Xint.
+### 3. [Julpygo/Claude-Code-AI-Design](https://github.com/Julpygo/Claude-Code-AI-Design)
+| | |
+|---|---|
+| **Author** | Julpygo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial
