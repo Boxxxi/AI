@@ -1926,3 +1926,48 @@
 | **Why trending** | Just launched; trending in: mcp server |
 
 > Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems Automation UI UX Prototyping Next.js Component Generation Best Developer Tools 2026 Free Tutorial
+
+---
+
+## 2026-05-03 — 4 new repo(s)
+
+### 1. [Snaplii-Inc/agent-to-merchant-payments](https://github.com/Snaplii-Inc/agent-to-merchant-payments)
+| | |
+|---|---|
+| **Author** | Snaplii-Inc |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 263 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Payments are broken for AI agents.  Snaplii unlocks real-world commerce with a safe, tokenized payment layer — powered by 500+ merchant gift cards — and is the only one that actually saves you money (up to 10% per transaction), on top of any existing deals or promotions.
+### 2. [Senabayu08989/Stable-Diffusion-AI-Free](https://github.com/Senabayu08989/Stable-Diffusion-AI-Free)
+| | |
+|---|---|
+| **Author** | Senabayu08989 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 209 |
+| **Topics** | diffusion-model |
+| **Why trending** | Just launched; trending in: diffusion model |
+
+> Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cinematic Styles Prompt Engineering Python Pytorch Forge ComfyUI 2026 Release High Resolution Desktop Tool
+### 3. [endless-sky-team/ai-trading-agent](https://github.com/endless-sky-team/ai-trading-agent)
+| | |
+|---|---|
+| **Author** | endless-sky-team |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | llm, machine-learning |
+| **Why trending** | Just launched; trending in: llm, machine learning |
+
+> llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals
+### 4. [lukiIabs/trading-agents](https://github.com/lukiIabs/trading-agents)
+| | |
+|---|---|
+| **Author** | lukiIabs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | llm, machine-learning, reasoning model |
+| **Why trending** | Just launched; trending in: llm, machine learning, reasoning model |
+
+> TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS
