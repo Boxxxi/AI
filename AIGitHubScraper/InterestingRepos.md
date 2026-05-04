@@ -1971,3 +1971,58 @@
 | **Why trending** | Just launched; trending in: llm, machine learning, reasoning model |
 
 > TradingAgents LLM multi-agent finance trading stocks crypto fintech quantitative algo trading sentiment analysis OpenAI JavaScript Node.js research OSS
+
+---
+
+## 2026-05-04 — 5 new repo(s)
+
+### 1. [aattaran/deepclaude](https://github.com/aattaran/deepclaude)
+| | |
+|---|---|
+| **Author** | aattaran |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 729 |
+| **Topics** | mcp server, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, ai coding, reasoning model |
+
+> Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.
+### 2. [Tommy-yw/RunbookHermes](https://github.com/Tommy-yw/RunbookHermes)
+| | |
+|---|---|
+| **Author** | Tommy-yw |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 429 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> Hermes-native AIOps agent for evidence-driven incident response, approval-gated remediation, and runbook learning.
+### 3. [Cuimao777/cuimao-translator](https://github.com/Cuimao777/cuimao-translator)
+| | |
+|---|---|
+| **Author** | Cuimao777 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 338 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 一键将英文PDF翻译为流畅中文的Claude Code技能
+### 4. [techjarves/OpenClaude-Portable](https://github.com/techjarves/OpenClaude-Portable)
+| | |
+|---|---|
+| **Author** | techjarves |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 304 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Run Claude Code from a USB drive on any PC — no installation required.
+### 5. [warpdot-dev/composio](https://github.com/warpdot-dev/composio)
+| | |
+|---|---|
+| **Author** | warpdot-dev |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 206 |
+| **Topics** | llm, mcp server |
+| **Why trending** | Just launched; trending in: llm, mcp server |
+
+> typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers
