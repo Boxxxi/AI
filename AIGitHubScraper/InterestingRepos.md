@@ -2026,3 +2026,48 @@
 | **Why trending** | Just launched; trending in: llm, mcp server |
 
 > typescript python sdk ai-agents anthropic openapi langchain openai-agents llamaindex mastra vercel-ai mcp oauth saas llm integrations agent-tools automation cloudflare google-gemini tooling rag multi-provider developer-sdk composable-actions webhook-triggers
+
+---
+
+## 2026-05-05 — 4 new repo(s)
+
+### 1. [vercel-labs/deepsec](https://github.com/vercel-labs/deepsec)
+| | |
+|---|---|
+| **Author** | vercel-labs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 814 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Deepsec is a security harness for finding vulnerabilities in your codebase powered by coding agents
+### 2. [raiyanyahya/how-to-train-your-gpt](https://github.com/raiyanyahya/how-to-train-your-gpt)
+| | |
+|---|---|
+| **Author** | raiyanyahya |
+| **Affiliation** | 💻🖱️ |
+| **Stars** | ⭐ 368 |
+| **Topics** | llm, machine-learning, deep-learning, reasoning model |
+| **Why trending** | Just launched; trending in: llm, machine learning, deep learning |
+
+> Build a modern LLM from scratch. Every line commented. Explained like we are five.
+### 3. [skydoves/compose-performance-skills](https://github.com/skydoves/compose-performance-skills)
+| | |
+|---|---|
+| **Author** | skydoves |
+| **Affiliation** | RevenueCat |
+| **Stars** | ⭐ 307 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> ⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.
+### 4. [StartupHakk/OpenMonoAgent.ai](https://github.com/StartupHakk/OpenMonoAgent.ai)
+| | |
+|---|---|
+| **Author** | StartupHakk |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 254 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | New release; trending in: mcp server, reasoning model |
+
+> (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
