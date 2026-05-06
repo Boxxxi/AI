@@ -2071,3 +2071,98 @@
 | **Why trending** | New release; trending in: mcp server, reasoning model |
 
 > (BETA) AI shouldn't have a meter. Unlimited tokens. Forever. Your machine. Your agent. Use it from anywhere. Terminal-native coding agent powered by local LLMs — 100% open source, free forever, and installed with a single command. Proudly built on C#/.NET, because AI tooling should be infrastructure, not a subscription.
+
+---
+
+## 2026-05-06 — 9 new repo(s)
+
+### 1. [XBuilderLAB/cheat-on-content](https://github.com/XBuilderLAB/cheat-on-content)
+| | |
+|---|---|
+| **Author** | XBuilderLAB |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 697 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Content is already a cheat-code race—whoever cracks the patterns first wins the traffic. Your auto-evolving ops expert that learns YOUR account, not the global average. The Claude Code workflow behind 1M followers in 1 month.
+### 2. [jherrodthomas/robotics-skills-suite](https://github.com/jherrodthomas/robotics-skills-suite)
+| | |
+|---|---|
+| **Author** | jherrodthomas |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 497 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 76 audit-ready Claude skills automating the industrial robot, cobot, AMR, ROS2, V&V, AI/ML, and IEC 62443 lifecycle. 38 builder + reviewer pairs anchored to ISO 10218, 13849, 62061, 12100, 9283, 15066, 3691-4, and IEC 62443.
+### 3. [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill)
+| | |
+|---|---|
+| **Author** | virgiliojr94 |
+| **Affiliation** | pagarme @mundipagg @stone-payments |
+| **Stars** | ⭐ 346 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+### 4. [OpenYSM/YSMParser](https://github.com/OpenYSM/YSMParser)
+| | |
+|---|---|
+| **Author** | OpenYSM |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 305 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> A Parser to recover Yes-Steve-Model Encrypted Binaries.
+### 5. [NyxFoundation/speca](https://github.com/NyxFoundation/speca)
+| | |
+|---|---|
+| **Author** | NyxFoundation |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 284 |
+| **Topics** | mcp server, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, ai coding, reasoning model |
+
+> SPECA: Specification-to-Checklist Agentic Auditing Framework
+### 6. [warpdot-dev/craft-agents-oss](https://github.com/warpdot-dev/craft-agents-oss)
+| | |
+|---|---|
+| **Author** | warpdot-dev |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 226 |
+| **Topics** | llm, mcp server |
+| **Why trending** | New release; trending in: llm, mcp server |
+
+> electron anthropic claude-agent-sdk mcp bun websocket thin-client multi-llm openapi skills automations oauth desktop-ai github-copilot google-ai chatgpt devtools apache-2 headless-server pi-sdk vscode-alternative linux macos windows
+### 7. [bestpracticaI/kalshi-ai-trading-bot](https://github.com/bestpracticaI/kalshi-ai-trading-bot)
+| | |
+|---|---|
+| **Author** | bestpracticaI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 214 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK
+### 8. [Hello-Application-XH/HelloGML](https://github.com/Hello-Application-XH/HelloGML)
+| | |
+|---|---|
+| **Author** | Hello-Application-XH |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> 智谱清言网页版的 Cloudflare Worker 2API层，提供 OpenAI / Claude / Gemini 三种协议兼容接口，支持流式对话、Tools调用、AI 绘图、视频生成与多账号 Token 轮询。
+### 9. [Alfredo7777777/claude-design-agents-toolkit](https://github.com/Alfredo7777777/claude-design-agents-toolkit)
+| | |
+|---|---|
+| **Author** | Alfredo7777777 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 200 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> 🎨 Claude Code AI Design Suite 2026 🚀 Best Free AI Design Plugins & Hooks for Coders
