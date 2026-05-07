@@ -2166,3 +2166,88 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > 🎨 Claude Code AI Design Suite 2026 🚀 Best Free AI Design Plugins & Hooks for Coders
+
+---
+
+## 2026-05-07 — 8 new repo(s)
+
+### 1. [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+| | |
+|---|---|
+| **Author** | strukto-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 616 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> A Unified Virtual Filesystem For AI Agents
+### 2. [lightseekorg/tokenspeed](https://github.com/lightseekorg/tokenspeed)
+| | |
+|---|---|
+| **Author** | lightseekorg |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 548 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> TokenSpeed is a speed-of-light LLM inference engine.
+### 3. [thcp/stemdeck](https://github.com/thcp/stemdeck)
+| | |
+|---|---|
+| **Author** | thcp |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 308 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Stemdeck is an AI-powered stem extraction platform for musicians and producers, designed to isolate vocals, drums, bass, piano and guitar  for practice, transcription, remixing, and creative audio workflows through a modern and interactive interface
+### 4. [joshawome/chainreason](https://github.com/joshawome/chainreason)
+| | |
+|---|---|
+| **Author** | joshawome |
+| **Affiliation** | University of Hawaiʻi at Mānoa |
+| **Stars** | ⭐ 285 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks
+### 5. [nateherkai/AIS-OS](https://github.com/nateherkai/AIS-OS)
+| | |
+|---|---|
+| **Author** | nateherkai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 267 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> AI Operating System starter kit for Claude Code — three-skill kit (/onboard, /audit, /level-up) + 3Ms framework. Companion to the AIOS masterclass.
+### 6. [lukiIabs/skills](https://github.com/lukiIabs/skills)
+| | |
+|---|---|
+| **Author** | lukiIabs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 238 |
+| **Topics** | llm, mcp server, vibe coding |
+| **Why trending** | New release; trending in: llm, mcp server, vibe coding |
+
+> Cursor Claude MCP SKILL.md TypeScript Node.js AI agent prompts automation developer tooling IDE productivity skills repository open source
+### 7. [TitanFlow-Systems/best-of-algorithmic-trading](https://github.com/TitanFlow-Systems/best-of-algorithmic-trading)
+| | |
+|---|---|
+| **Author** | TitanFlow-Systems |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 229 |
+| **Topics** | machine-learning |
+| **Why trending** | Just launched; trending in: machine learning |
+
+> best-of algorithmic trading quant finance crypto bots frameworks APIs TA indicators libraries Freqtrade Hummingbot OctoBot Jesse Zipline backtrader CCXT Lean StockSharp Python Node Rust Go TypeScript C# Java forex stocks derivatives polymarket prediction-markets courses books YouTube Telegram communities fintech opensource weekly ranked star-score
+### 8. [Ajai53200/DeepSeek-V4-Pro-App](https://github.com/Ajai53200/DeepSeek-V4-Pro-App)
+| | |
+|---|---|
+| **Author** | Ajai53200 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 208 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.
