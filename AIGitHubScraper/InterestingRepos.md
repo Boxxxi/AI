@@ -2251,3 +2251,48 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.
+
+---
+
+## 2026-05-08 — 4 new repo(s)
+
+### 1. [antirez/ds4](https://github.com/antirez/ds4)
+| | |
+|---|---|
+| **Author** | antirez |
+| **Affiliation** | Redis Labs |
+| **Stars** | ⭐ 1,812 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding, reasoning model |
+
+> DeepSeek 4 Flash local inference engine for Metal
+### 2. [WenyuChiou/awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+| | |
+|---|---|
+| **Author** | WenyuChiou |
+| **Affiliation** | LEHIGH UNIVERSITY |
+| **Stars** | ⭐ 265 |
+| **Topics** | mcp server, vibe coding, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, vibe coding, ai coding |
+
+> AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。
+### 3. [darkrishabh/agent-skills-eval](https://github.com/darkrishabh/agent-skills-eval)
+| | |
+|---|---|
+| **Author** | darkrishabh |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 211 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A test runner for agentskills.io-style AI agent skills
+### 4. [NirDiamant/Agent_Memory_Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques)
+| | |
+|---|---|
+| **Author** | NirDiamant |
+| **Affiliation** | DiamantAI |
+| **Stars** | ⭐ 200 |
+| **Topics** | rag |
+| **Why trending** | Just launched; trending in: rag |
+
+> Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.
