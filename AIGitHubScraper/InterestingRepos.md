@@ -2296,3 +2296,28 @@
 | **Why trending** | Just launched; trending in: rag |
 
 > Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.
+
+---
+
+## 2026-05-09 — 2 new repo(s)
+
+### 1. [jmerelnyc/Photo-agents](https://github.com/jmerelnyc/Photo-agents)
+| | |
+|---|---|
+| **Author** | jmerelnyc |
+| **Affiliation** | Google |
+| **Stars** | ⭐ 363 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.
+### 2. [fendouai/CodexSaver](https://github.com/fendouai/CodexSaver)
+| | |
+|---|---|
+| **Author** | fendouai |
+| **Affiliation** | 磐创AI |
+| **Stars** | ⭐ 329 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> Make Codex cheaper without making it dumber with DeepSeek.
