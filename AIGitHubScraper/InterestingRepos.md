@@ -2321,3 +2321,28 @@
 | **Why trending** | Just launched; trending in: mcp server, reasoning model |
 
 > Make Codex cheaper without making it dumber with DeepSeek.
+
+---
+
+## 2026-05-10 — 2 new repo(s)
+
+### 1. [nickvasilescu/hermes-desktop-os1](https://github.com/nickvasilescu/hermes-desktop-os1)
+| | |
+|---|---|
+| **Author** | nickvasilescu |
+| **Affiliation** | CUA |
+| **Stars** | ⭐ 291 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts
+### 2. [alchaincyf/huashu-md-html](https://github.com/alchaincyf/huashu-md-html)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 278 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.
