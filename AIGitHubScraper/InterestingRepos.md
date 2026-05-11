@@ -2346,3 +2346,58 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.
+
+---
+
+## 2026-05-11 — 5 new repo(s)
+
+### 1. [huangserva/3DCellForge](https://github.com/huangserva/3DCellForge)
+| | |
+|---|---|
+| **Author** | huangserva |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,236 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> AI-powered interactive 3D cell generation and exploration studio.
+### 2. [cclank/cell-architecture-studio](https://github.com/cclank/cell-architecture-studio)
+| | |
+|---|---|
+| **Author** | cclank |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 325 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Interactive 3D cell architecture gallery built with React and Three.js
+### 3. [HiDream-ai/HiDream-O1-Image](https://github.com/HiDream-ai/HiDream-O1-Image)
+| | |
+|---|---|
+| **Author** | HiDream-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 264 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> _No description provided._
+### 4. [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla)
+| | |
+|---|---|
+| **Author** | opensquilla |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 210 |
+| **Topics** | llm, deep-learning, mcp server, reasoning model |
+| **Why trending** | New release; trending in: llm, deep learning, mcp server |
+
+> OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
+### 5. [ChristianJR19/GoblinOS](https://github.com/ChristianJR19/GoblinOS)
+| | |
+|---|---|
+| **Author** | ChristianJR19 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona
