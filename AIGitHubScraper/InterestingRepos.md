@@ -2401,3 +2401,28 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > a Hermes Agent personality layer that replaces the default agent identity with a persistent, mood-driven goblin persona
+
+---
+
+## 2026-05-12 — 2 new repo(s)
+
+### 1. [haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk)
+| | |
+|---|---|
+| **Author** | haydenbleasel |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 490 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O.
+### 2. [ywnd1144/Gopay_plus_automatic](https://github.com/ywnd1144/Gopay_plus_automatic)
+| | |
+|---|---|
+| **Author** | ywnd1144 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 320 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
