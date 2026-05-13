@@ -2426,3 +2426,58 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > _No description provided._
+
+---
+
+## 2026-05-13 — 5 new repo(s)
+
+### 1. [simonlin1212/a-stock-data](https://github.com/simonlin1212/a-stock-data)
+| | |
+|---|---|
+| **Author** | simonlin1212 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 424 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A 股全栈数据工具包 — 6层架构 · 15个端点 · 7个数据源 | AI Skill for China A-Share Market Data
+### 2. [JUk1-GH/gpt-promo-scanner](https://github.com/JUk1-GH/gpt-promo-scanner)
+| | |
+|---|---|
+| **Author** | JUk1-GH |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 329 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> ChatGPT Team(Business) 促销码自动扫描工具 — 批量发现/验证/价格收集，支持 17 国 34 个码，最高折扣 71% | ChatGPT Business promo code scanner — batch discovery, validation, price collection, 34 codes across 17 countries, up to 71% off
+### 3. [yaassin12/DeepSeek-V4-Pro-App](https://github.com/yaassin12/DeepSeek-V4-Pro-App)
+| | |
+|---|---|
+| **Author** | yaassin12 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 316 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> DeepSeek V4 Pro: Advanced AI desktop app. Features: 1.6T MoE architecture, 1M token context window, Engram memory. Pro coding agent, Think Mode (High/Max), repo-level reasoning, complex bug fixing. Real-time web search, local API key storage, cross-file analysis, low-latency streaming interface.
+### 4. [Salomondiei08/oh-my-hermes](https://github.com/Salomondiei08/oh-my-hermes)
+| | |
+|---|---|
+| **Author** | Salomondiei08 |
+| **Affiliation** | Reinvent-Labs |
+| **Stars** | ⭐ 306 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent
+### 5. [yliust/Tactile](https://github.com/yliust/Tactile)
+| | |
+|---|---|
+| **Author** | yliust |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Tactile: an accessibility-first operating layer for agents.
