@@ -2481,3 +2481,38 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > Tactile: an accessibility-first operating layer for agents.
+
+---
+
+## 2026-05-14 — 3 new repo(s)
+
+### 1. [jasonkneen/tiny-world-builder](https://github.com/jasonkneen/tiny-world-builder)
+| | |
+|---|---|
+| **Author** | jasonkneen |
+| **Affiliation** | Freelance (BouncingFish) |
+| **Stars** | ⭐ 434 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> tiny-world-builder
+### 2. [nexu-io/html-anything](https://github.com/nexu-io/html-anything)
+| | |
+|---|---|
+| **Author** | nexu-io |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 306 |
+| **Topics** | generative-ai |
+| **Why trending** | Just launched; trending in: generative ai |
+
+> ✨ The agentic HTML editor — your local AI agent writes the HTML, you ship it. 🚀 75 Skills × 9 Surfaces (magazine · deck · poster · XHS / tweet · prototype · data report · Hyperframes) 🛡️ Sandboxed preview · 📤 1-click to WeChat / X / Zhihu / HTML / PNG 🔑 Zero API key — Claude Code / Cursor / Codex / Gemini / Copilot / OpenCode / Qwen / Aider.
+### 3. [mikesheehan54/Claude-Code-Design-AI](https://github.com/mikesheehan54/Claude-Code-Design-AI)
+| | |
+|---|---|
+| **Author** | mikesheehan54 |
+| **Affiliation** | mentality |
+| **Stars** | ⭐ 263 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.
