@@ -2516,3 +2516,28 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > Claude Design: AI UI/UX architect. Screenshot to React, Figma components, Tailwind CSS generator. Prototyping agent, design systems, wireframe renderer. SVG icon creator, dark mode toggle, responsive layout tool. Front-end code export, shadcn/ui integration, vector assets, branding assistant.
+
+---
+
+## 2026-05-15 — 2 new repo(s)
+
+### 1. [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill)
+| | |
+|---|---|
+| **Author** | yetone |
+| **Affiliation** | Isoform |
+| **Stars** | ⭐ 916 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer architecture, WebKit/WebView2 survival guide, 75-item ship audit.
+### 2. [WantongC/journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill)
+| | |
+|---|---|
+| **Author** | WantongC |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 226 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Learn any journal's writing conventions from its published papers, then revise your manuscript to match — section by section.
