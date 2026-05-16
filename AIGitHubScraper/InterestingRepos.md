@@ -2541,3 +2541,38 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > Learn any journal's writing conventions from its published papers, then revise your manuscript to match — section by section.
+
+---
+
+## 2026-05-16 — 3 new repo(s)
+
+### 1. [DenisSergeevitch/agents-best-practices](https://github.com/DenisSergeevitch/agents-best-practices)
+| | |
+|---|---|
+| **Author** | DenisSergeevitch |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 420 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Provider-neutral Agent Skill for Codex, Claude Code, and agentic harness design.
+### 2. [deeplethe/forkd](https://github.com/deeplethe/forkd)
+| | |
+|---|---|
+| **Author** | deeplethe |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 214 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Fork microVMs sandbox from a warmed parent in 101 ms.
+### 3. [agentic-in/elephant-agent](https://github.com/agentic-in/elephant-agent)
+| | |
+|---|---|
+| **Author** | agentic-in |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 207 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Personal-Model First Self Evolving AI Agent 🐘
