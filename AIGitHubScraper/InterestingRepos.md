@@ -2576,3 +2576,88 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > Personal-Model First Self Evolving AI Agent 🐘
+
+---
+
+## 2026-05-17 — 8 new repo(s)
+
+### 1. [facebookresearch/vggt-omega](https://github.com/facebookresearch/vggt-omega)
+| | |
+|---|---|
+| **Author** | facebookresearch |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 526 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> [CVPR 2026 Oral] VGGT Omega
+### 2. [BharathKumarSuresh/claude-design-system-hooks](https://github.com/BharathKumarSuresh/claude-design-system-hooks)
+| | |
+|---|---|
+| **Author** | BharathKumarSuresh |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> 🚀 Ultimate Claude Code AI Design Skills & Hooks Bundle 2026 – Free Install
+### 3. [2508965-ship-it/harmonist-orchestral](https://github.com/2508965-ship-it/harmonist-orchestral)
+| | |
+|---|---|
+| **Author** | 2508965-ship-it |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 420 |
+| **Topics** | llm, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: llm, ai coding, reasoning model |
+
+> 🚀 Multi-Agent Orchestration Engine 2026 – Build & Deploy AI Swarms with Claude Code
+### 4. [Sunderpal18/printer-offline-revival](https://github.com/Sunderpal18/printer-offline-revival)
+| | |
+|---|---|
+| **Author** | Sunderpal18 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 420 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 🖨️ Ultimate Printer Offline Fix Guide 2026 – Step-by-Step for HP & Brother
+### 5. [mk7024490-glitch/aura-edge-optimizer](https://github.com/mk7024490-glitch/aura-edge-optimizer)
+| | |
+|---|---|
+| **Author** | mk7024490-glitch |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 420 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Best Free Minecraft Vape V4 Hacks 2026 - New Client Download
+### 6. [gi-dellav/zerostack](https://github.com/gi-dellav/zerostack)
+| | |
+|---|---|
+| **Author** | gi-dellav |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 394 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | New release; trending in: mcp server, reasoning model |
+
+> Minimalistic coding agent written in Rust, optimized for memory footprint and performance
+### 7. [openclaw/clawpatch](https://github.com/openclaw/clawpatch)
+| | |
+|---|---|
+| **Author** | openclaw |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 390 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Review code. Patch bugs. Land PRs.
+### 8. [chiennv2000/orthrus](https://github.com/chiennv2000/orthrus)
+| | |
+|---|---|
+| **Author** | chiennv2000 |
+| **Affiliation** | University of Oregon |
+| **Stars** | ⭐ 254 |
+| **Topics** | llm, reasoning model |
+| **Why trending** | Just launched; trending in: llm, reasoning model |
+
+> Fast, lossless LLM inference via dual-view diffusion decoding.
