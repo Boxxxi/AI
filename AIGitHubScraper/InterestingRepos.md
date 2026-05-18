@@ -2661,3 +2661,98 @@
 | **Why trending** | Just launched; trending in: llm, reasoning model |
 
 > Fast, lossless LLM inference via dual-view diffusion decoding.
+
+---
+
+## 2026-05-18 — 9 new repo(s)
+
+### 1. [vercel-labs/zero](https://github.com/vercel-labs/zero)
+| | |
+|---|---|
+| **Author** | vercel-labs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 2,140 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> The programming language for agents
+### 2. [cat9999aaa/thinshell](https://github.com/cat9999aaa/thinshell)
+| | |
+|---|---|
+| **Author** | cat9999aaa |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 484 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> thinshell
+### 3. [joyber/steam-dlc-architect-edition](https://github.com/joyber/steam-dlc-architect-edition)
+| | |
+|---|---|
+| **Author** | joyber |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 🔥 Free Steam DLC Unlocker 2026 – Unlimited DLC Pack & Instant Access
+### 4. [NguyenVietHoang1804/Aegis-Hardware-Anonymizer](https://github.com/NguyenVietHoang1804/Aegis-Hardware-Anonymizer)
+| | |
+|---|---|
+| **Author** | NguyenVietHoang1804 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Ultimate Hardware & MAC Spoofer 2026 🛡️ Game Spoof Suite – Instant System Anonymizer
+### 5. [BasZ4ll/Stable-Diffusion-WebUI](https://github.com/BasZ4ll/Stable-Diffusion-WebUI)
+| | |
+|---|---|
+| **Author** | BasZ4ll |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 407 |
+| **Topics** | diffusion-model |
+| **Why trending** | Just launched; trending in: diffusion model |
+
+> Stable Diffusion: webui automatic1111 download free, comfyui setup guide, sdxl checkpoint safetensors, lora model civitai, controlnet extension github. SD WebUI Forge launcher, low VRAM optimization, xformers command line arguments, python torch cuda error fix, out of memory solution, txt2img img2img, inpainting, realesrgan upscaler, local pc insta
+### 6. [Doorman11991/smallcode](https://github.com/Doorman11991/smallcode)
+| | |
+|---|---|
+| **Author** | Doorman11991 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 291 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> AI coding agent optimized for small LLMs. 87% benchmark with 4B-active model.
+### 7. [Callous-0923/agent-study](https://github.com/Callous-0923/agent-study)
+| | |
+|---|---|
+| **Author** | Callous-0923 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 261 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> 36章AI Agent全栈课程：从ReAct循环到Claude Code逆向、MCP/A2A协议、RAG、DSPy、生产可观测性——全部为可运行Python文件，面试导向。
+### 8. [dex-original/okx-agent-trade-kit](https://github.com/dex-original/okx-agent-trade-kit)
+| | |
+|---|---|
+| **Author** | dex-original |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 255 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> okx trading bot okx agent mcp cli cryptocurrency okx api automated trading typescript okx trading bot model context protocol cursor ai trading crypto spot futures okx trading bot npm pnpm okx mcp open source quant defi cex okx trading bot algorithmic trading crypto bot okx trading bot okx api mcp okx trading bot crypto mcp
+### 9. [LocoreMind/locoagent](https://github.com/LocoreMind/locoagent)
+| | |
+|---|---|
+| **Author** | LocoreMind |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 206 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> AI-powered social media agent with real browser automation
