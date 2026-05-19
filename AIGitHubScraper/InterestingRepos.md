@@ -2756,3 +2756,58 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > AI-powered social media agent with real browser automation
+
+---
+
+## 2026-05-19 — 5 new repo(s)
+
+### 1. [stephenlthorn/auto-identity-remove](https://github.com/stephenlthorn/auto-identity-remove)
+| | |
+|---|---|
+| **Author** | stephenlthorn |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 535 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule
+### 2. [AbhishekK130804/Claude-Mythos-AI-Anthropic-App](https://github.com/AbhishekK130804/Claude-Mythos-AI-Anthropic-App)
+| | |
+|---|---|
+| **Author** | AbhishekK130804 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 426 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> Claude pro free Mythos design Opus Cowork  Sonnet AI Anthropic App: download free PC android apk iOS, Anthropic Claude API key setup, Claude roleplay mythos client, SillyTavern Claude prompt formatting, custom system prompt jailbreak, Mythos AI creative writing app, Claude 3.5 Sonnet Opus API cost, open source LLM frontend, Claude reverse proxy 
+### 3. [sapientinc/HRM-Text](https://github.com/sapientinc/HRM-Text)
+| | |
+|---|---|
+| **Author** | sapientinc |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 293 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> HRM-Text is a 1B text generation model based on the HRM architecture, strengthened by task completion and latent space reasoning.
+### 4. [dtnewman/burn-baby-burn](https://github.com/dtnewman/burn-baby-burn)
+| | |
+|---|---|
+| **Author** | dtnewman |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 247 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Be the most productive engineer on your team 🚀🚀🚀
+### 5. [husu/loom](https://github.com/husu/loom)
+| | |
+|---|---|
+| **Author** | husu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 240 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> 一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具
