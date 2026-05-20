@@ -2811,3 +2811,48 @@
 | **Why trending** | New release; trending in: vibe coding |
 
 > 一个写接口文档的AI Agent。支持使用Vibe coding 的方式，编写接口文档，同时自带友好的文档查看工具与接口Mock工具
+
+---
+
+## 2026-05-20 — 4 new repo(s)
+
+### 1. [vercel-labs/zerolang](https://github.com/vercel-labs/zerolang)
+| | |
+|---|---|
+| **Author** | vercel-labs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 3,842 |
+| **Topics** | ai coding |
+| **Why trending** | New release; rapidly growing; trending in: ai coding |
+
+> The programming language for agents
+### 2. [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate)
+| | |
+|---|---|
+| **Author** | FoundZiGu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 851 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
+### 3. [bytedance/Lance](https://github.com/bytedance/Lance)
+| | |
+|---|---|
+| **Author** | bytedance |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 439 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> A 3B-active-parameter native unified multimodal model for image and video understanding, generation, and editing.
+### 4. [agent-quality-controls/slopless](https://github.com/agent-quality-controls/slopless)
+| | |
+|---|---|
+| **Author** | agent-quality-controls |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 239 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> Deterministic textlint rules and CLI for catching prose slop in Markdown
