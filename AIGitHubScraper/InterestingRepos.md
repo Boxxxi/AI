@@ -2856,3 +2856,48 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > Deterministic textlint rules and CLI for catching prose slop in Markdown
+
+---
+
+## 2026-05-21 — 4 new repo(s)
+
+### 1. [evilsocket/audit](https://github.com/evilsocket/audit)
+| | |
+|---|---|
+| **Author** | evilsocket |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 393 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> An 8-stage vulnerability-discovery agent.
+### 2. [datawhalechina/Agent-Learning-Hub](https://github.com/datawhalechina/Agent-Learning-Hub)
+| | |
+|---|---|
+| **Author** | datawhalechina |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 354 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | New release; trending in: ai coding, reasoning model |
+
+> AI Agent 学习路线与资料库收集
+### 3. [seochecks-ai/slopless](https://github.com/seochecks-ai/slopless)
+| | |
+|---|---|
+| **Author** | seochecks-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 255 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> Deterministic textlint rules and CLI for catching prose slop in Markdown
+### 4. [texsellix/polymarket-trading-bot](https://github.com/texsellix/polymarket-trading-bot)
+| | |
+|---|---|
+| **Author** | texsellix |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 244 |
+| **Topics** | ai-agent |
+| **Why trending** | Just launched; trending in: ai agent |
+
+> Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup.
