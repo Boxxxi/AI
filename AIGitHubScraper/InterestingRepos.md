@@ -2901,3 +2901,38 @@
 | **Why trending** | Just launched; trending in: ai agent |
 
 > Polymarket from your terminal. Copy whales, run autonomous strategies, place orders with one command. CLI-only, no dashboard, no setup.
+
+---
+
+## 2026-05-22 — 3 new repo(s)
+
+### 1. [lynote-ai/humanize-text](https://github.com/lynote-ai/humanize-text)
+| | |
+|---|---|
+| **Author** | lynote-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 375 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Free open-source AI text humanizer to convert AI-generated content into undetectable, human-like writing. Bypass Turnitin, GPTZero, and all major AI detectors. No sign-up required. Try our unlimited free online tool
+### 2. [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur)
+| | |
+|---|---|
+| **Author** | paradigmxyz |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 319 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Multiplayer, self-hosted, secure agents.
+### 3. [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
+| | |
+|---|---|
+| **Author** | Klotzkette |
+| **Affiliation** | Klotzkette |
+| **Stars** | ⭐ 267 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co
