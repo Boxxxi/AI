@@ -2936,3 +2936,68 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co
+
+---
+
+## 2026-05-23 — 6 new repo(s)
+
+### 1. [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee)
+| | |
+|---|---|
+| **Author** | perplexityai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 670 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
+### 2. [0xSero/codex-shim](https://github.com/0xSero/codex-shim)
+| | |
+|---|---|
+| **Author** | 0xSero |
+| **Affiliation** | Sybil Solutions |
+| **Stars** | ⭐ 307 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> Local Responses-API shim that exposes Factory BYOK models (and optional ChatGPT GPT-5.5 passthrough) to Codex Desktop.
+### 3. [open-gsd/get-shit-done-redux](https://github.com/open-gsd/get-shit-done-redux)
+| | |
+|---|---|
+| **Author** | open-gsd |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 252 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Getting Shit Done, the Aftermath
+### 4. [l0ng-ai/papr](https://github.com/l0ng-ai/papr)
+| | |
+|---|---|
+| **Author** | l0ng-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 232 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A fast, native RSS reader for the desktop.
+### 5. [hypnguyen1209/offensive-claude](https://github.com/hypnguyen1209/offensive-claude)
+| | |
+|---|---|
+| **Author** | hypnguyen1209 |
+| **Affiliation** | mew-sh |
+| **Stars** | ⭐ 218 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Offensive security toolkit for Claude Code covering red team, exploit dev, AD attacks, EDR bypass, mobile pentest
+### 6. [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code)
+| | |
+|---|---|
+| **Author** | MoonshotAI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 205 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> The Starting Point for Next-Gen Agents
