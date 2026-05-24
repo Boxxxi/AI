@@ -3001,3 +3001,78 @@
 | **Why trending** | Just launched; trending in: mcp server |
 
 > The Starting Point for Next-Gen Agents
+
+---
+
+## 2026-05-24 — 7 new repo(s)
+
+### 1. [jskblue/Tomodachi-Island-Life-Remastered](https://github.com/jskblue/Tomodachi-Island-Life-Remastered)
+| | |
+|---|---|
+| **Author** | jskblue |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 423 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> New Tomodachi Life 2026 PC Edition 🏝️ Life Sim & Mii Creator for Windows 🎮
+### 2. [larajuniorlara/Claude-Design-Studio](https://github.com/larajuniorlara/Claude-Design-Studio)
+| | |
+|---|---|
+| **Author** | larajuniorlara |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 422 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 🚀 Claude Design AI 2026: Ultimate UI/UX Generator & Plugin Suite – Free Download
+### 3. [Lablez/Ping-Slayer-Network-Optimizer](https://github.com/Lablez/Ping-Slayer-Network-Optimizer)
+| | |
+|---|---|
+| **Author** | Lablez |
+| **Affiliation** | Lablez |
+| **Stars** | ⭐ 422 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Ultimate Free Network Optimizer 2026 🚀 Boost FPS & Fix Ping Instantly
+### 4. [muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics](https://github.com/muhammadqasimkalhoro94-blip/claude-zeroclaw-agentics)
+| | |
+|---|---|
+| **Author** | muhammadqasimkalhoro94-blip |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> 🚀 ZeroClaw Subagents 2026: AI Orchestration with Claude Code Router & MCP
+### 5. [bollahouse/office-2024-pro-integration-suite](https://github.com/bollahouse/office-2024-pro-integration-suite)
+| | |
+|---|---|
+| **Author** | bollahouse |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Microsoft Office 2026 Premium Free Download – Full Suite Installer 🚀
+### 6. [testerlingcodo/gemini-antigravity-cli](https://github.com/testerlingcodo/gemini-antigravity-cli)
+| | |
+|---|---|
+| **Author** | testerlingcodo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 240 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free
+### 7. [jianshuo/ccglass](https://github.com/jianshuo/ccglass)
+| | |
+|---|---|
+| **Author** | jianshuo |
+| **Affiliation** | Baixing |
+| **Stars** | ⭐ 209 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
