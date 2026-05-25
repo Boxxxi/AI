@@ -3076,3 +3076,48 @@
 | **Why trending** | Just launched; trending in: mcp server |
 
 > See what your coding agent (Claude Code, Codex, Kimi) sends to the model — local proxy + web dashboard
+
+---
+
+## 2026-05-25 — 4 new repo(s)
+
+### 1. [rayhayqal/Mythos-Claude-Skill-Forge](https://github.com/rayhayqal/Mythos-Claude-Skill-Forge)
+| | |
+|---|---|
+| **Author** | rayhayqal |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 422 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 🚀 Claude Mythos AI 2026 – Build Autonomous Agent Skills & Plugins for Next-Gen Apps
+### 2. [rafa450367/forza-horizon-6-community-edition](https://github.com/rafa450367/forza-horizon-6-community-edition)
+| | |
+|---|---|
+| **Author** | rafa450367 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 422 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Forza Horizon 6 Premium Free Download 2026 – Steam PC Open Source Game
+### 3. [pheejm/forza-horizon-6-ultimate-mod-pack](https://github.com/pheejm/forza-horizon-6-ultimate-mod-pack)
+| | |
+|---|---|
+| **Author** | pheejm |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 422 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Forza Horizon 6 Best New CarPack Mods 2026 🚗🔥 Free Download & More Mods
+### 4. [sikander12342/Subnautica-2-Nitrox-Deep-Dive](https://github.com/sikander12342/Subnautica-2-Nitrox-Deep-Dive)
+| | |
+|---|---|
+| **Author** | sikander12342 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 421 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Subnautica 2 Release Date 2026 PS5 & Steam - Early Access Nitrox Multiplayer Guide
