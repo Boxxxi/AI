@@ -3121,3 +3121,88 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > Subnautica 2 Release Date 2026 PS5 & Steam - Early Access Nitrox Multiplayer Guide
+
+---
+
+## 2026-05-26 — 8 new repo(s)
+
+### 1. [XingYu-Zhong/DeepSeek-GUI](https://github.com/XingYu-Zhong/DeepSeek-GUI)
+| | |
+|---|---|
+| **Author** | XingYu-Zhong |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 305 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> AI agent workspace for DeepSeek models, with Code and Claw modes built into your application.
+### 2. [VILA-Lab/FigMirror](https://github.com/VILA-Lab/FigMirror)
+| | |
+|---|---|
+| **Author** | VILA-Lab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 299 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> An Automated AI Agent Tool for Plotting Your Data in Any Paper's Figure Style.
+### 3. [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory)
+| | |
+|---|---|
+| **Author** | akitaonrails |
+| **Affiliation** | Codeminer 42 |
+| **Stars** | ⭐ 262 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | New release; trending in: mcp server, ai coding |
+
+> Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors
+### 4. [Simbastack-hq/framedex](https://github.com/Simbastack-hq/framedex)
+| | |
+|---|---|
+| **Author** | Simbastack-hq |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 255 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Framedex — a queryable knowledge base for your video archive
+### 5. [study8677/awesome-architecture](https://github.com/study8677/awesome-architecture)
+| | |
+|---|---|
+| **Author** | study8677 |
+| **Affiliation** | 齐鲁工业大学 |
+| **Stars** | ⭐ 245 |
+| **Topics** | llm, rag, ai coding |
+| **Why trending** | Just launched; trending in: llm, rag, ai coding |
+
+> 🗺️ Think like a software architect, not just a coder — 21 architecture maps (incl. AI gateway, RAG, agents, inference serving, vector DB) + a language-agnostic system-design tutorial. Every template links to real open-source prototypes. 中英文双语。
+### 6. [bryanyzhu/agentic-ai-system-course](https://github.com/bryanyzhu/agentic-ai-system-course)
+| | |
+|---|---|
+| **Author** | bryanyzhu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 233 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Use agent to learn agent - A skeleton course on how to design, build, and operate production AI agents 
+### 7. [zqbxdev/webchat2api](https://github.com/zqbxdev/webchat2api)
+| | |
+|---|---|
+| **Author** | zqbxdev |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> OpenAI-compatible Web Chat API proxy with GPT/Grok account management
+### 8. [scheidydude/codeindex](https://github.com/scheidydude/codeindex)
+| | |
+|---|---|
+| **Author** | scheidydude |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.
