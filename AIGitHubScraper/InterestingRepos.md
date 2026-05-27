@@ -3206,3 +3206,38 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > Repo dependency analyzer with **blast-radius impact scoring** for AI-assisted development.
+
+---
+
+## 2026-05-27 — 3 new repo(s)
+
+### 1. [UditAkhourii/adhd](https://github.com/UditAkhourii/adhd)
+| | |
+|---|---|
+| **Author** | UditAkhourii |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 282 |
+| **Topics** | llm, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: llm, ai coding, reasoning model |
+
+> ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.
+### 2. [5-m0cftvuvif/stake-monthly](https://github.com/5-m0cftvuvif/stake-monthly)
+| | |
+|---|---|
+| **Author** | 5-m0cftvuvif |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 268 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Stake Monthly is one of the most discussed topics in online platform communities, loyalty systems, and crypto entertainment ecosystems. This educational guide explains how monthly reward structures, VIP progression, recurring engagement systems, and community participation models work across modern digital platforms.
+### 3. [mikaeldengale-cloud/Deepseek-v4-Pro-App](https://github.com/mikaeldengale-cloud/Deepseek-v4-Pro-App)
+| | |
+|---|---|
+| **Author** | mikaeldengale-cloud |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 219 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment
