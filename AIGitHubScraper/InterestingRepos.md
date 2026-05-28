@@ -3241,3 +3241,58 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > deepseek v4 flash pro chat  api  app windows 11 desktop client github open source ai assistant chatbot coding agent moe model 1.6t parameters free api setup guide reasoning max mode local deployment
+
+---
+
+## 2026-05-28 — 5 new repo(s)
+
+### 1. [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck)
+| | |
+|---|---|
+| **Author** | OpenBMB |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,389 |
+| **Topics** | mcp server, vibe coding, ai coding, reasoning model |
+| **Why trending** | New release; rapidly growing; trending in: mcp server, vibe coding, ai coding |
+
+> Task-oriented AI Agent productivity platform
+### 2. [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill)
+| | |
+|---|---|
+| **Author** | op7418 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 683 |
+| **Topics** | ai-agent, ai coding |
+| **Why trending** | Just launched; trending in: ai agent, ai coding |
+
+> 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
+### 3. [real-Elysia886/Todo-Tree-Next](https://github.com/real-Elysia886/Todo-Tree-Next)
+| | |
+|---|---|
+| **Author** | real-Elysia886 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 232 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Modern rewrite of Todo Tree — TypeScript + Rust architecture for blazing-fast TODO scanning in VS Code
+### 4. [withkynam/vibecode-pro-max-kit](https://github.com/withkynam/vibecode-pro-max-kit)
+| | |
+|---|---|
+| **Author** | withkynam |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 220 |
+| **Topics** | llm, vibe coding |
+| **Why trending** | Just launched; trending in: llm, vibe coding |
+
+> Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 12 agents, 32 skills. Kills context rot, ships features, not spaghetti. Claude Code & Codex. Any stack. 30 seconds
+### 5. [veryyoldman/Genspark-AI](https://github.com/veryyoldman/Genspark-AI)
+| | |
+|---|---|
+| **Author** | veryyoldman |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)
