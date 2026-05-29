@@ -3296,3 +3296,78 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > Genspark AI open-source, self-hosted Super Agent. Free alternative to Genspark.ai with multi-agent orchestration, deep research, Sparkpages, AI slides & sheets, image generation and 80+ tools. One-command Windows install. Run locally with any LLM (OpenAI, Anthropic, Gemini, Ollama)
+
+---
+
+## 2026-05-29 — 7 new repo(s)
+
+### 1. [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)
+| | |
+|---|---|
+| **Author** | helloianneo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 658 |
+| **Topics** | ai-agent, ai coding |
+| **Why trending** | Just launched; trending in: ai agent, ai coding |
+
+> 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+### 2. [AmmarkoV/SAM3DBody-cpp](https://github.com/AmmarkoV/SAM3DBody-cpp)
+| | |
+|---|---|
+| **Author** | AmmarkoV |
+| **Affiliation** | FORTH-ICS-CVRL-HCCV |
+| **Stars** | ⭐ 322 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Real-time 3D full-body reconstruction from a single camera, Multiperson BVH output, Pure C++ runtime, ONNX + ggml, 70-joint skeleton with hands.
+### 3. [odinsalazar964150/Gemini-Pro-Desktop-2026](https://github.com/odinsalazar964150/Gemini-Pro-Desktop-2026)
+| | |
+|---|---|
+| **Author** | odinsalazar964150 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 303 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A free, locally runnable desktop application powered by Gemini Pro for enhanced productivity.
+### 4. [adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026](https://github.com/adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026)
+| | |
+|---|---|
+| **Author** | adelaideacfalle50838568946 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 289 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A comprehensive desktop application package for advanced ChatGPT interactions and management.
+### 5. [2aronS/Duel-Agents](https://github.com/2aronS/Duel-Agents)
+| | |
+|---|---|
+| **Author** | 2aronS |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 283 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> CLI, SDK, and IDE plugins for Duel Agents
+### 6. [sitodowubb/spatial-vqa-bench](https://github.com/sitodowubb/spatial-vqa-bench)
+| | |
+|---|---|
+| **Author** | sitodowubb |
+| **Affiliation** | Lanzhou University |
+| **Stars** | ⭐ 204 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Spatial-VQA-Bench: a focused benchmark of spatial visual reasoning for multimodal LLMs.
+### 7. [manuelageske58246958801/DeepFake-AI-2026-RealTime](https://github.com/manuelageske58246958801/DeepFake-AI-2026-RealTime)
+| | |
+|---|---|
+| **Author** | manuelageske58246958801 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.
