@@ -3371,3 +3371,38 @@
 | **Why trending** | Just launched; trending in: llm |
 
 > An advanced, LLM-powered toolkit providing comprehensive capabilities for ethical synthetic media detection, analysis, and responsible content generation.
+
+---
+
+## 2026-05-30 — 3 new repo(s)
+
+### 1. [zhristophe/Claude-Mythos-AI-Anthropic-App](https://github.com/zhristophe/Claude-Mythos-AI-Anthropic-App)
+| | |
+|---|---|
+| **Author** | zhristophe |
+| **Affiliation** | Eeue |
+| **Stars** | ⭐ 320 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> claude mythos ai anthropic app github open source desktop mobile client abhishekk130804 anthropic api key creative writing roleplay character cards deep reasoning chain of thought system prompts jailbreak windows macos linux android apk next js electron tauri python rust download setup guide tutorial latest version 2026 free update
+### 2. [bonus-2026/crypto-casino-bonus](https://github.com/bonus-2026/crypto-casino-bonus)
+| | |
+|---|---|
+| **Author** | bonus-2026 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 312 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Explore the best Crypto Casino Bonus - including no deposit welcome bonuses. Learn about Bitcoin casino rewards, free spins, cashback offers, crypto payments, mobile gaming, and responsible online casino promotions.
+### 3. [do-md/domd](https://github.com/do-md/domd)
+| | |
+|---|---|
+| **Author** | do-md |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 280 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> _No description provided._
