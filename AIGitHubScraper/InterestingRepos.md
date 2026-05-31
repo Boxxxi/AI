@@ -3406,3 +3406,38 @@
 | **Why trending** | New release; trending in: ai coding |
 
 > _No description provided._
+
+---
+
+## 2026-05-31 — 3 new repo(s)
+
+### 1. [anthropic-claude-code-ai/free-claude-code-ai-desktop-app](https://github.com/anthropic-claude-code-ai/free-claude-code-ai-desktop-app)
+| | |
+|---|---|
+| **Author** | anthropic-claude-code-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 309 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> claude code ai free desktop app  api cli open source opencode aider gemini alternative download github local llm ollama setup guide tutorial api  2026
+### 2. [PolyMomentum-Labs/.github](https://github.com/PolyMomentum-Labs/.github)
+| | |
+|---|---|
+| **Author** | PolyMomentum-Labs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 287 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Official docs for PolyMomentum — Polymarket CLOB V2 integration, trading strategies, bot architecture, and OpenClaw/MCP AI workflows.
+### 3. [cellinlab/how-pi-agent-works](https://github.com/cellinlab/how-pi-agent-works)
+| | |
+|---|---|
+| **Author** | cellinlab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 272 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Pi Agent 原理与实现
