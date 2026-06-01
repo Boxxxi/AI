@@ -3441,3 +3441,68 @@
 | **Why trending** | New release; trending in: ai coding |
 
 > Pi Agent 原理与实现
+
+---
+
+## 2026-06-01 — 6 new repo(s)
+
+### 1. [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus)
+| | |
+|---|---|
+| **Author** | pewdiepie-archdaemon |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 17,773 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; viral (17,773 stars); trending in: mcp server |
+
+> Self-hosted AI workspace. 
+### 2. [jdevalk/specification.website](https://github.com/jdevalk/specification.website)
+| | |
+|---|---|
+| **Author** | jdevalk |
+| **Affiliation** | Emilia-Capital |
+| **Stars** | ⭐ 371 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
+### 3. [boona13/image-extender](https://github.com/boona13/image-extender)
+| | |
+|---|---|
+| **Author** | boona13 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 285 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | New release; trending in: ai coding, reasoning model |
+
+> Seamlessly extend any image in any direction with AI. Open-source web app powered by Gemini via OpenRouter, with Poisson-blended seams and best-of-3 variant picker.
+### 4. [yb2460/harness-anything](https://github.com/yb2460/harness-anything)
+| | |
+|---|---|
+| **Author** | yb2460 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 265 |
+| **Topics** | ai-agent |
+| **Why trending** | New release; trending in: ai agent |
+
+> CLI harness for WPS Office -- let AI agents control Writer, Calc & Impress via COM automation
+### 5. [LawmakerTreasure/deepseek-openclaw](https://github.com/LawmakerTreasure/deepseek-openclaw)
+| | |
+|---|---|
+| **Author** | LawmakerTreasure |
+| **Affiliation** | Highlight.io |
+| **Stars** | ⭐ 229 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> OpenClaw for DeepSeek — a lightweight starter app for connecting DeepSeek models through OpenClaw with a clean UI and simple setup.
+### 6. [kepengxu/PRISM-VL](https://github.com/kepengxu/PRISM-VL)
+| | |
+|---|---|
+| **Author** | kepengxu |
+| **Affiliation** | xidian university |
+| **Stars** | ⭐ 228 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer.
