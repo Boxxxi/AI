@@ -3506,3 +3506,78 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > PRISM-VL studies measurement-grounded VLM learning with RAW-derived Meas.-XYZ inputs, camera-conditioned grounding, and exposure-bracketed supervision transfer.
+
+---
+
+## 2026-06-02 — 7 new repo(s)
+
+### 1. [ClaudioDrews/memory-os](https://github.com/ClaudioDrews/memory-os)
+| | |
+|---|---|
+| **Author** | ClaudioDrews |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 492 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A 7-layer memory operating system for Hermes Agent — persistent memory with Qdrant, structured facts, fabric recall, auto-curated wiki, and surgical context injection. Runs locally, any LLM provider.
+### 2. [b-nnett/goose](https://github.com/b-nnett/goose)
+| | |
+|---|---|
+| **Author** | b-nnett |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 348 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Goose Swift proof-of-concept README
+### 3. [JuneYaooo/nihaisha-tcm](https://github.com/JuneYaooo/nihaisha-tcm)
+| | |
+|---|---|
+| **Author** | JuneYaooo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 245 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 倪海厦中医课程资料的 Agent Skill：支持课程检索、方证穴位辨析、学习笔记整理与板书截图证据索引。 |  An Agent Skill for Ni Haisha TCM course study, formula-pattern lookup, acupoint reference, and screenshot evidence indexing.
+### 4. [ProxyShard/ShardBrowser](https://github.com/ProxyShard/ShardBrowser)
+| | |
+|---|---|
+| **Author** | ProxyShard |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 225 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Free, open-source anti-detect browser launcher for web scraping and multi-accounting. By the ProxyShard team. Engine-level fingerprint spoofing in Chromium 148 (WebGL / WebGPU / Client Hints / fonts / TLS), 170+ device profiles bundled, stable QUIC + WebRTC over SOCKS5.
+### 5. [WUBING2023/ExamPass-Assistant](https://github.com/WUBING2023/ExamPass-Assistant)
+| | |
+|---|---|
+| **Author** | WUBING2023 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 218 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 把课堂讲义变成考试利器 一键将 PPT、Word、PDF 课件转化为结构清晰的知识清单和交互式测试题，让复习事半功倍。 适用人群：大学生、各个阶段老师、其他需要对付短期考试的朋友
+### 6. [johnbean393/KeyType](https://github.com/johnbean393/KeyType)
+| | |
+|---|---|
+| **Author** | johnbean393 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 210 |
+| **Topics** | llm |
+| **Why trending** | Just launched; trending in: llm |
+
+> An open-source Cotypist with macOS system wide AI autocomplete
+### 7. [safeboundai/vibe-scanner](https://github.com/safeboundai/vibe-scanner)
+| | |
+|---|---|
+| **Author** | safeboundai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 207 |
+| **Topics** | vibe coding, ai coding |
+| **Why trending** | New release; trending in: vibe coding, ai coding |
+
+> _No description provided._
