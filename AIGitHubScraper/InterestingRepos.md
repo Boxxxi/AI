@@ -3581,3 +3581,78 @@
 | **Why trending** | New release; trending in: vibe coding, ai coding |
 
 > _No description provided._
+
+---
+
+## 2026-06-03 — 7 new repo(s)
+
+### 1. [cpaczek/skylight](https://github.com/cpaczek/skylight)
+| | |
+|---|---|
+| **Author** | cpaczek |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 486 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
+### 2. [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat)
+| | |
+|---|---|
+| **Author** | VAST-AI-Research |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 301 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
+### 3. [bytedance/Bernini](https://github.com/bytedance/Bernini)
+| | |
+|---|---|
+| **Author** | bytedance |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 271 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Bernini is a unified framework for video generation and editing that combines an MLLM-based semantic planner with a DiT-based renderer.
+### 4. [OnlyTerp/UltraCode-Shim](https://github.com/OnlyTerp/UltraCode-Shim)
+| | |
+|---|---|
+| **Author** | OnlyTerp |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 245 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> Give Claude Code's ultracode mode to ANY model you already pay for. A tiny local proxy + one config.json. Point your AI at AGENTS.md and it sets itself up.
+### 5. [jd-opensource/JoyAI-Echo](https://github.com/jd-opensource/JoyAI-Echo)
+| | |
+|---|---|
+| **Author** | jd-opensource |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 231 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> JoyAI-Echo: Pushing the Frontier of Long Audio-Visual Generation
+### 6. [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp)
+| | |
+|---|---|
+| **Author** | mudler |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 207 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Parakeet implementation in C++ with ggml
+### 7. [duncatzat/vigils](https://github.com/duncatzat/vigils)
+| | |
+|---|---|
+| **Author** | duncatzat |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 205 |
+| **Topics** | llm, mcp server, ai coding |
+| **Why trending** | Just launched; trending in: llm, mcp server, ai coding |
+
+> A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
