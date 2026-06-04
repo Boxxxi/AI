@@ -3656,3 +3656,38 @@
 | **Why trending** | Just launched; trending in: llm, mcp server, ai coding |
 
 > A local control plane for AI agents — see what they do, approve what matters, keep secrets out. Rust + Tauri + Chrome MV3.
+
+---
+
+## 2026-06-04 — 3 new repo(s)
+
+### 1. [asz798838958/aBaiAutoplus](https://github.com/asz798838958/aBaiAutoplus)
+| | |
+|---|---|
+| **Author** | asz798838958 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,467 |
+| **Topics** | vibe coding, ai coding |
+| **Why trending** | New release; rapidly growing; trending in: vibe coding, ai coding |
+
+> 多平台 AI 账号自动注册与管理 · 协议化付款一键开通 ChatGPT Plus
+### 2. [tastyeffectco/sandboxes](https://github.com/tastyeffectco/sandboxes)
+| | |
+|---|---|
+| **Author** | tastyeffectco |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 330 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+### 3. [PentesterFlow/agent](https://github.com/PentesterFlow/agent)
+| | |
+|---|---|
+| **Author** | PentesterFlow |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 249 |
+| **Topics** | mcp server, ai coding, reasoning model |
+| **Why trending** | New release; trending in: mcp server, ai coding, reasoning model |
+
+> Agentic offensive-security in your terminal
