@@ -3691,3 +3691,38 @@
 | **Why trending** | New release; trending in: mcp server, ai coding, reasoning model |
 
 > Agentic offensive-security in your terminal
+
+---
+
+## 2026-06-05 — 3 new repo(s)
+
+### 1. [Jane-xiaoer/xiaoer-videolab](https://github.com/Jane-xiaoer/xiaoer-videolab)
+| | |
+|---|---|
+| **Author** | Jane-xiaoer |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 307 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> One click on the toolbar grabs the current page's video into ~/Downloads — local yt-dlp daemon, 1800+ sites. 小耳抓视频：一键把当前页视频抓到本地。
+### 2. [Fullive-AI/Anima](https://github.com/Fullive-AI/Anima)
+| | |
+|---|---|
+| **Author** | Fullive-AI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 282 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Make Every Hardware Intelligent — an open-source Agent OS for hardware intelligence
+### 3. [r14dd/patent](https://github.com/r14dd/patent)
+| | |
+|---|---|
+| **Author** | r14dd |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 275 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A prior-art search for your code ideas. Stop building what already exists.
