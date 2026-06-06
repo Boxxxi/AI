@@ -3726,3 +3726,28 @@
 | **Why trending** | New release; trending in: ai coding |
 
 > A prior-art search for your code ideas. Stop building what already exists.
+
+---
+
+## 2026-06-06 — 2 new repo(s)
+
+### 1. [CWS6206/ai-coding-starter-kit](https://github.com/CWS6206/ai-coding-starter-kit)
+| | |
+|---|---|
+| **Author** | CWS6206 |
+| **Affiliation** | Creative Web Studio GmbH |
+| **Stars** | ⭐ 261 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.
+### 2. [zarazhangrui/beautiful-feishu-whiteboard](https://github.com/zarazhangrui/beautiful-feishu-whiteboard)
+| | |
+|---|---|
+| **Author** | zarazhangrui |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 207 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> 35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.
