@@ -3751,3 +3751,38 @@
 | **Why trending** | New release; trending in: vibe coding |
 
 > 35 curated colour palette styles for building beautiful, editable Feishu / Lark (飞书) whiteboards. An agent skill.
+
+---
+
+## 2026-06-07 — 3 new repo(s)
+
+### 1. [razr001/align-dev](https://github.com/razr001/align-dev)
+| | |
+|---|---|
+| **Author** | razr001 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 258 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> AlignDev helps AI-assisted frontend teams generate shared coding standards and SKILL.md so Claude Code, Codex, Cursor, Copilot, and other agents write consistently.
+### 2. [openai/role-specific-plugins](https://github.com/openai/role-specific-plugins)
+| | |
+|---|---|
+| **Author** | openai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Role-specific Codex plugin templates
+### 3. [Albert-Weasker/niubi_guard](https://github.com/Albert-Weasker/niubi_guard)
+| | |
+|---|---|
+| **Author** | Albert-Weasker |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Open-source GitHub repository abuse detection and response system.
