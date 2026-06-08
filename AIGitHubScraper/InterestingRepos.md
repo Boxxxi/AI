@@ -3786,3 +3786,78 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > Open-source GitHub repository abuse detection and response system.
+
+---
+
+## 2026-06-08 — 7 new repo(s)
+
+### 1. [tastyeffectco/sandboxd](https://github.com/tastyeffectco/sandboxd)
+| | |
+|---|---|
+| **Author** | tastyeffectco |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 511 |
+| **Topics** | ai-agent, ai coding |
+| **Why trending** | New release; trending in: ai agent, ai coding |
+
+> Self-hosted dev sandboxes with preview URLs. One command. No Kubernetes, perfect for coding agents and Saas factories
+### 2. [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)
+| | |
+|---|---|
+| **Author** | JimLiu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 497 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.
+### 3. [NoopApp/noop](https://github.com/NoopApp/noop)
+| | |
+|---|---|
+| **Author** | NoopApp |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 471 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription.
+### 4. [amElnagdy/guard-skills](https://github.com/amElnagdy/guard-skills)
+| | |
+|---|---|
+| **Author** | amElnagdy |
+| **Affiliation** | OnTheGoSystems |
+| **Stars** | ⭐ 436 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs
+### 5. [mysk-research/loupe](https://github.com/mysk-research/loupe)
+| | |
+|---|---|
+| **Author** | mysk-research |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 338 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A privacy-focused iOS app that raises awareness about what native apps can see
+### 6. [rednote-hilab/dots.tts](https://github.com/rednote-hilab/dots.tts)
+| | |
+|---|---|
+| **Author** | rednote-hilab |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 290 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> _No description provided._
+### 7. [FerroxLabs/wayland](https://github.com/FerroxLabs/wayland)
+| | |
+|---|---|
+| **Author** | FerroxLabs |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 234 |
+| **Topics** | mcp server, vibe coding, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, vibe coding, reasoning model |
+
+> Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
