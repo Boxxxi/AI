@@ -3861,3 +3861,38 @@
 | **Why trending** | Just launched; trending in: mcp server, vibe coding, reasoning model |
 
 > Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.
+
+---
+
+## 2026-06-09 — 3 new repo(s)
+
+### 1. [YuvBindal/produck-oss](https://github.com/YuvBindal/produck-oss)
+| | |
+|---|---|
+| **Author** | YuvBindal |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 325 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Great apps are built on good context
+### 2. [xiaohuailabs/xiaohu-video-translate](https://github.com/xiaohuailabs/xiaohu-video-translate)
+| | |
+|---|---|
+| **Author** | xiaohuailabs |
+| **Affiliation** | xiaohu.ai |
+| **Stars** | ⭐ 293 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费
+### 3. [hoolulu/deep-research](https://github.com/hoolulu/deep-research)
+| | |
+|---|---|
+| **Author** | hoolulu |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 239 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages
