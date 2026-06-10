@@ -3896,3 +3896,18 @@
 | **Why trending** | New release; trending in: mcp server |
 
 > 深度调研报告生成 Skill — 一个命令，十分钟，多语言，一份深度专业的调研报告 / Professional deep research report generation Skill · Supports 19 languages
+
+---
+
+## 2026-06-10 — 1 new repo(s)
+
+### 1. [apple/coreai-models](https://github.com/apple/coreai-models)
+| | |
+|---|---|
+| **Author** | apple |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 541 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
