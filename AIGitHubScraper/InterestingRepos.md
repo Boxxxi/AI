@@ -3911,3 +3911,58 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+
+---
+
+## 2026-06-11 — 5 new repo(s)
+
+### 1. [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+| | |
+|---|---|
+| **Author** | XiaomiMiMo |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 3,904 |
+| **Topics** | mcp server, ai coding, reasoning model |
+| **Why trending** | Just launched; rapidly growing; trending in: mcp server, ai coding, reasoning model |
+
+> _No description provided._
+### 2. [jwangkun/claude-for-financial-services-cn](https://github.com/jwangkun/claude-for-financial-services-cn)
+| | |
+|---|---|
+| **Author** | jwangkun |
+| **Affiliation** | John Wong |
+| **Stars** | ⭐ 339 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | New release; trending in: mcp server, ai coding |
+
+>  63 个 Claude Skills，为 A 股金融从业者而生  基于 Anthropic 官方 claude-for-financial-services 深度适配国内市场，现已开源。
+### 3. [yux1azhengye/BestSerenitySkillFromAT](https://github.com/yux1azhengye/BestSerenitySkillFromAT)
+| | |
+|---|---|
+| **Author** | yux1azhengye |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 285 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> BestSerenityFromAT(AlphaTerminal On The Way)
+### 4. [valkor-ai/loom](https://github.com/valkor-ai/loom)
+| | |
+|---|---|
+| **Author** | valkor-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 218 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Loop engineering for agentic software delivery.
+### 5. [adamallcock/codex-chatgpt-control](https://github.com/adamallcock/codex-chatgpt-control)
+| | |
+|---|---|
+| **Author** | adamallcock |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 201 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> Unofficial SDK for Codex agents controlling visible ChatGPT web sessions
