@@ -3966,3 +3966,38 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > Unofficial SDK for Codex agents controlling visible ChatGPT web sessions
+
+---
+
+## 2026-06-12 — 3 new repo(s)
+
+### 1. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+| | |
+|---|---|
+| **Author** | DietrichGebert |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 605 |
+| **Topics** | llm, ai coding |
+| **Why trending** | Just launched; trending in: llm, ai coding |
+
+> Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+### 2. [SkyBlue997/enableMacosAI](https://github.com/SkyBlue997/enableMacosAI)
+| | |
+|---|---|
+| **Author** | SkyBlue997 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 330 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 国行 Mac 一键开启完整 Apple 智能(端侧 + Private Cloud Compute 云端)· macOS 27 / Apple Silicon
+### 3. [alchaincyf/fanbox](https://github.com/alchaincyf/fanbox)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> _No description provided._
