@@ -4001,3 +4001,58 @@
 | **Why trending** | Just launched; trending in: vibe coding |
 
 > _No description provided._
+
+---
+
+## 2026-06-13 — 5 new repo(s)
+
+### 1. [levy-street/world-of-claudecraft](https://github.com/levy-street/world-of-claudecraft)
+| | |
+|---|---|
+| **Author** | levy-street |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 534 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
+### 2. [joeseesun/qiaomu-goal-meta-skill](https://github.com/joeseesun/qiaomu-goal-meta-skill)
+| | |
+|---|---|
+| **Author** | joeseesun |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 405 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Turn vague or complex Codex tasks into strong `/goal` commands with outcome, verification, constraints, boundaries, iteration policy, completion evide
+### 3. [inbrainfun/inbrain](https://github.com/inbrainfun/inbrain)
+| | |
+|---|---|
+| **Author** | inbrainfun |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 282 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> _No description provided._
+### 4. [kadevin/ilab-gpt-conjure](https://github.com/kadevin/ilab-gpt-conjure)
+| | |
+|---|---|
+| **Author** | kadevin |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 246 |
+| **Topics** | generative-ai |
+| **Why trending** | New release; trending in: generative ai |
+
+> 面向 GPT-image-2 的 AI 图片生成 WebUI 工作台，支持 Codex Responses 与 OpenAI 兼容 API 接入，内置公用图库、多类型 Chip 快捷引用、提示词模板、多任务并发和本地队列管理。An AI image generation WebUI workbench for GPT-image-2 with Codex Responses and OpenAI-compatible API support, shared gallery references, multi-type quick chips, prompt templates, concurrent tasks, and local queue management.
+### 5. [eli-labz/Third-Eye](https://github.com/eli-labz/Third-Eye)
+| | |
+|---|---|
+| **Author** | eli-labz |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 222 |
+| **Topics** | ai-agent |
+| **Why trending** | Just launched; trending in: ai agent |
+
+> A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.
