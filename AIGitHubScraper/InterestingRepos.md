@@ -4056,3 +4056,48 @@
 | **Why trending** | Just launched; trending in: ai agent |
 
 > A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.
+
+---
+
+## 2026-06-14 — 4 new repo(s)
+
+### 1. [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent)
+| | |
+|---|---|
+| **Author** | omnigent-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 897 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device.
+### 2. [coder/boo](https://github.com/coder/boo)
+| | |
+|---|---|
+| **Author** | coder |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 388 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> A GNU screen style terminal multiplexer built on libghostty.
+### 3. [mrtooher/fable-mode](https://github.com/mrtooher/fable-mode)
+| | |
+|---|---|
+| **Author** | mrtooher |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 256 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
+### 4. [nolangz/pixel2motion](https://github.com/nolangz/pixel2motion)
+| | |
+|---|---|
+| **Author** | nolangz |
+| **Affiliation** | Tencent |
+| **Stars** | ⭐ 233 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
