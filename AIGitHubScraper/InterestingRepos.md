@@ -4101,3 +4101,68 @@
 | **Why trending** | Just launched; trending in: vibe coding |
 
 > AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.
+
+---
+
+## 2026-06-15 — 6 new repo(s)
+
+### 1. [LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill)
+| | |
+|---|---|
+| **Author** | LearnPrompt |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 329 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉
+### 2. [duolahypercho/fusion-fable](https://github.com/duolahypercho/fusion-fable)
+| | |
+|---|---|
+| **Author** | duolahypercho |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 289 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.
+### 3. [buynao/aipath](https://github.com/buynao/aipath)
+| | |
+|---|---|
+| **Author** | buynao |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 255 |
+| **Topics** | machine-learning, mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: machine learning, mcp server, reasoning model |
+
+> Interactive AI General Education Course — 30 Lessons, Zero Math
+### 4. [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering)
+| | |
+|---|---|
+| **Author** | cobusgreyling |
+| **Affiliation** | Kore AI |
+| **Stars** | ⭐ 250 |
+| **Topics** | llm |
+| **Why trending** | New release; trending in: llm |
+
+> Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.
+### 5. [pulkitxm/claude-directory](https://github.com/pulkitxm/claude-directory)
+| | |
+|---|---|
+| **Author** | pulkitxm |
+| **Affiliation** | Noveum |
+| **Stars** | ⭐ 247 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> Experimentation projects with Anthropic's new Claude models (Fable 5 / Mythos)
+### 6. [fivetaku/fablize](https://github.com/fivetaku/fablize)
+| | |
+|---|---|
+| **Author** | fivetaku |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 207 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
