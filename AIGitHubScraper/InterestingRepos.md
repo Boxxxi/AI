@@ -4166,3 +4166,48 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > A Claude Code plugin that makes Opus behave like Fable — completion, evidence, and verification enforced as procedure. Ships only what a Fable-vs-Opus comparison proved transferable.
+
+---
+
+## 2026-06-16 — 4 new repo(s)
+
+### 1. [alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book)
+| | |
+|---|---|
+| **Author** | alchaincyf |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 448 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
+### 2. [NO6KIKO/gorest-2d-animation-spritesheet-generator](https://github.com/NO6KIKO/gorest-2d-animation-spritesheet-generator)
+| | |
+|---|---|
+| **Author** | NO6KIKO |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 297 |
+| **Topics** | vibe coding |
+| **Why trending** | New release; trending in: vibe coding |
+
+> Codex-assisted local 2D animation spritesheet generator and scene compositing workspace.
+### 3. [taisly/agent](https://github.com/taisly/agent)
+| | |
+|---|---|
+| **Author** | taisly |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 203 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.
+### 4. [zhengdian1/InterleaveThinker](https://github.com/zhengdian1/InterleaveThinker)
+| | |
+|---|---|
+| **Author** | zhengdian1 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 203 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> _No description provided._
