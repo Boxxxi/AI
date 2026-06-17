@@ -4211,3 +4211,58 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > _No description provided._
+
+---
+
+## 2026-06-17 — 5 new repo(s)
+
+### 1. [SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
+| | |
+|---|---|
+| **Author** | SunJaycy |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 512 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> _No description provided._
+### 2. [Plaer1/junction](https://github.com/Plaer1/junction)
+| | |
+|---|---|
+| **Author** | Plaer1 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 497 |
+| **Topics** | ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: ai coding, reasoning model |
+
+> VS Code chat sidebar for local AI coding agents
+### 3. [TestSprite/testsprite-cli](https://github.com/TestSprite/testsprite-cli)
+| | |
+|---|---|
+| **Author** | TestSprite |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 375 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Official TestSprite CLI — AI-powered automated testing from your terminal
+### 4. [skydoves/compose-nav-graph](https://github.com/skydoves/compose-nav-graph)
+| | |
+|---|---|
+| **Author** | skydoves |
+| **Affiliation** | RevenueCat |
+| **Stars** | ⭐ 374 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> ⛵️ Compose Navigation Graph plugin for Android Studio that visualizes your entire app flow as an interactive map of rendered previews, typed arguments, and transitions.
+### 5. [Nanako0129/coralline](https://github.com/Nanako0129/coralline)
+| | |
+|---|---|
+| **Author** | Nanako0129 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 344 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
