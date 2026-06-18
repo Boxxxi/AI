@@ -4266,3 +4266,58 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > 🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it
+
+---
+
+## 2026-06-18 — 5 new repo(s)
+
+### 1. [vercel/eve](https://github.com/vercel/eve)
+| | |
+|---|---|
+| **Author** | vercel |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,200 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; rapidly growing; trending in: ai coding |
+
+> The Framework for Building Agents
+### 2. [Waishnav/devspace](https://github.com/Waishnav/devspace)
+| | |
+|---|---|
+| **Author** | Waishnav |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 673 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Turn ChatGPT into Codex
+### 3. [rebel0789/codexpro](https://github.com/rebel0789/codexpro)
+| | |
+|---|---|
+| **Author** | rebel0789 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 362 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.
+### 4. [dzcmemory-web/bazi-ziwei-skill](https://github.com/dzcmemory-web/bazi-ziwei-skill)
+| | |
+|---|---|
+| **Author** | dzcmemory-web |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 361 |
+| **Topics** | ai-agent, ai coding |
+| **Why trending** | New release; trending in: ai agent, ai coding |
+
+> AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。
+### 5. [boogu-project/Boogu-Image](https://github.com/boogu-project/Boogu-Image)
+| | |
+|---|---|
+| **Author** | boogu-project |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 263 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.
