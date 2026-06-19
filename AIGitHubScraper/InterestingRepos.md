@@ -4321,3 +4321,68 @@
 | **Why trending** | Just launched; trending in: reasoning model |
 
 > Boogu-Image-0.1 is an Apache-2.0 open-source image generation and editing model family that delivers near-closed-source performance with an order of magnitude less data.
+
+---
+
+## 2026-06-19 — 6 new repo(s)
+
+### 1. [privatenumber/mac-ocr](https://github.com/privatenumber/mac-ocr)
+| | |
+|---|---|
+| **Author** | privatenumber |
+| **Affiliation** | vercel |
+| **Stars** | ⭐ 379 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> macOS CLI for OCR and searchable PDFs using Apple's Vision framework
+### 2. [dongshuyan/compass-skills](https://github.com/dongshuyan/compass-skills)
+| | |
+|---|---|
+| **Author** | dongshuyan |
+| **Affiliation** | Tsinghua University |
+| **Stars** | ⭐ 329 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents
+### 3. [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills)
+| | |
+|---|---|
+| **Author** | majidmanzarpour |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 320 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
+### 4. [nnecrkvenuOX/formcms](https://github.com/nnecrkvenuOX/formcms)
+| | |
+|---|---|
+| **Author** | nnecrkvenuOX |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 268 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> AI Agent: Open-source headless CMS built with ASP.NET Core (C#) and React, featuring REST APIs, GraphQL, and a GrapesJS page designer.
+### 5. [ruvnet/agent-harness-generator](https://github.com/ruvnet/agent-harness-generator)
+| | |
+|---|---|
+| **Author** | ruvnet |
+| **Affiliation** | Not a Bot |
+| **Stars** | ⭐ 212 |
+| **Topics** | mcp server |
+| **Why trending** | New release; trending in: mcp server |
+
+> 🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).
+### 6. [aresyn/codex-control-plane-mcp](https://github.com/aresyn/codex-control-plane-mcp)
+| | |
+|---|---|
+| **Author** | aresyn |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 203 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> Durable MCP control plane for long-running Codex Desktop tasks
