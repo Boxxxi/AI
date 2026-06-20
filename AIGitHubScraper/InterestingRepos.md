@@ -4386,3 +4386,38 @@
 | **Why trending** | Just launched; trending in: mcp server, reasoning model |
 
 > Durable MCP control plane for long-running Codex Desktop tasks
+
+---
+
+## 2026-06-20 — 3 new repo(s)
+
+### 1. [Forsy-AI/agent-apprenticeship](https://github.com/Forsy-AI/agent-apprenticeship)
+| | |
+|---|---|
+| **Author** | Forsy-AI |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 437 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> The living ecosystem for AI agents learning from real-world work through iterative loops and training-signal exchange.
+### 2. [gykim80/perfectpixel-studio](https://github.com/gykim80/perfectpixel-studio)
+| | |
+|---|---|
+| **Author** | gykim80 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 286 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)
+### 3. [ngrok/webernetes](https://github.com/ngrok/webernetes)
+| | |
+|---|---|
+| **Author** | ngrok |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 262 |
+| **Topics** | vibe coding |
+| **Why trending** | Just launched; trending in: vibe coding |
+
+> Kubernetes in the browser.
