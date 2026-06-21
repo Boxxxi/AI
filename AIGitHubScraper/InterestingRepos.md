@@ -4421,3 +4421,28 @@
 | **Why trending** | Just launched; trending in: vibe coding |
 
 > Kubernetes in the browser.
+
+---
+
+## 2026-06-21 — 2 new repo(s)
+
+### 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)
+| | |
+|---|---|
+| **Author** | cloudflare |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 208 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
+### 2. [world-action-models/awesome-world-action-models](https://github.com/world-action-models/awesome-world-action-models)
+| | |
+|---|---|
+| **Author** | world-action-models |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 204 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> _No description provided._
