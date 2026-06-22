@@ -4446,3 +4446,48 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > _No description provided._
+
+---
+
+## 2026-06-22 — 4 new repo(s)
+
+### 1. [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views)
+| | |
+|---|---|
+| **Author** | lyra81604 |
+| **Affiliation** | University of Macau |
+| **Stars** | ⭐ 614 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基金打分，绝不杜撰。⚠️仅研究学习辅助，不构成投资建议‼️website是郑希主页！
+### 2. [sums001/Windows-Copilot-API](https://github.com/sums001/Windows-Copilot-API)
+| | |
+|---|---|
+| **Author** | sums001 |
+| **Affiliation** | Fintrategy |
+| **Stars** | ⭐ 309 |
+| **Topics** | llm, reasoning model |
+| **Why trending** | Just launched; trending in: llm, reasoning model |
+
+> Reverse engineered Windows Copilot into an OpenAI-compatible API. Access GPT-4 and GPT-5 models through a simple REST interface without API keys or billing.
+### 3. [raiyanyahya/recall](https://github.com/raiyanyahya/recall)
+| | |
+|---|---|
+| **Author** | raiyanyahya |
+| **Affiliation** | 💻🖱️ |
+| **Stars** | ⭐ 289 |
+| **Topics** | llm, ai coding |
+| **Why trending** | Just launched; trending in: llm, ai coding |
+
+> Stop wasting tokens and re-explaining your project every session. Recall gives Claude Code durable memory — entirely offline.
+### 4. [eooce/transfer-api](https://github.com/eooce/transfer-api)
+| | |
+|---|---|
+| **Author** | eooce |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 286 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.
