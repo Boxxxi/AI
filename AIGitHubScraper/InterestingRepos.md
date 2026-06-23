@@ -4491,3 +4491,18 @@
 | **Why trending** | Just launched; trending in: mcp server, ai coding |
 
 > Cloudflare Worker adapter for unlimited.surf OpenAI/Anthropic-compatible API routes.
+
+---
+
+## 2026-06-23 — 1 new repo(s)
+
+### 1. [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book)
+| | |
+|---|---|
+| **Author** | bozhouDev |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 272 |
+| **Topics** | mcp server, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, ai coding, reasoning model |
+
+> Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
