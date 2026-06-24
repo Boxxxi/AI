@@ -4506,3 +4506,28 @@
 | **Why trending** | Just launched; trending in: mcp server, ai coding, reasoning model |
 
 > Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）
+
+---
+
+## 2026-06-24 — 2 new repo(s)
+
+### 1. [ksimback/looper](https://github.com/ksimback/looper)
+| | |
+|---|---|
+| **Author** | ksimback |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 289 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Design visual, review-gated agent loops for Claude Code before you run them.
+### 2. [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel)
+| | |
+|---|---|
+| **Author** | shy3130 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 205 |
+| **Topics** | llm, ai-agent |
+| **Why trending** | New release; trending in: llm, ai agent |
+
+> 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)
