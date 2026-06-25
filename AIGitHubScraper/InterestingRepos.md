@@ -4531,3 +4531,58 @@
 | **Why trending** | New release; trending in: llm, ai agent |
 
 > 自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据 | 能力驱动适配全档位订阅 | 自由接入第三方扩展数据(Tushare 等)
+
+---
+
+## 2026-06-25 — 5 new repo(s)
+
+### 1. [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld)
+| | |
+|---|---|
+| **Author** | QwenLM |
+| **Affiliation** | Alibaba |
+| **Stars** | ⭐ 440 |
+| **Topics** | mcp server, reasoning model |
+| **Why trending** | Just launched; trending in: mcp server, reasoning model |
+
+> Qwen-AgentWorld: Language World Models for General Agents
+### 2. [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals)
+| | |
+|---|---|
+| **Author** | benchflow-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 243 |
+| **Topics** | llm, mcp server, vibe coding, ai coding, reasoning model |
+| **Why trending** | Just launched; trending in: llm, mcp server, vibe coding |
+
+> A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks. Maintained by BenchFlow.
+### 3. [krea-ai/krea-2](https://github.com/krea-ai/krea-2)
+| | |
+|---|---|
+| **Author** | krea-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 243 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Official inference code for Krea 2
+### 4. [trotsky1997/OpenFugu](https://github.com/trotsky1997/OpenFugu)
+| | |
+|---|---|
+| **Author** | trotsky1997 |
+| **Affiliation** | Alibaba |
+| **Stars** | ⭐ 212 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Open reimplementation of Sakana Fugu — the 'one model to command them all' LLM orchestrator. Read → run → train → serve.
+### 5. [iart-ai/motion-skills](https://github.com/iart-ai/motion-skills)
+| | |
+|---|---|
+| **Author** | iart-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 202 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.
