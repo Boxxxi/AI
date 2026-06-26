@@ -4586,3 +4586,28 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > 50 open-source skills that teach your AI coding agent to make motion graphics, animation & video — kinetic typography, data-viz, explainers, TikTok/Reels, WebGL, Manim. 14 installable packs. By iart.ai, the AI motion agent.
+
+---
+
+## 2026-06-26 — 2 new repo(s)
+
+### 1. [winsznx/theeleven](https://github.com/winsznx/theeleven)
+| | |
+|---|---|
+| **Author** | winsznx |
+| **Affiliation** | Winszn Labs |
+| **Stars** | ⭐ 337 |
+| **Topics** | mcp server, ai coding |
+| **Why trending** | Just launched; trending in: mcp server, ai coding |
+
+> Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gasless USDT0 staking.
+### 2. [amplifthq/opentag](https://github.com/amplifthq/opentag)
+| | |
+|---|---|
+| **Author** | amplifthq |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 271 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.
