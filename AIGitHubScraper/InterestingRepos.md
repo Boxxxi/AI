@@ -4611,3 +4611,58 @@
 | **Why trending** | Just launched; trending in: ai coding |
 
 > Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.
+
+---
+
+## 2026-06-27 — 5 new repo(s)
+
+### 1. [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec)
+| | |
+|---|---|
+| **Author** | deepseek-ai |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 746 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms
+### 2. [Pluviobyte/video-production-skills](https://github.com/Pluviobyte/video-production-skills)
+| | |
+|---|---|
+| **Author** | Pluviobyte |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 289 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Reusable AI video production skills library for creation, recreation, motion design, openers, and QA.
+### 3. [abundantbeing/hermes-browser-extension](https://github.com/abundantbeing/hermes-browser-extension)
+| | |
+|---|---|
+| **Author** | abundantbeing |
+| **Affiliation** | Komet Studios |
+| **Stars** | ⭐ 220 |
+| **Topics** | ai-agent, mcp server |
+| **Why trending** | Just launched; trending in: ai agent, mcp server |
+
+> Browser-native side panel for Hermes Agent — connect web context to your local Hermes runtime.
+### 4. [fancydirty/mediary-scout](https://github.com/fancydirty/mediary-scout)
+| | |
+|---|---|
+| **Author** | fancydirty |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 206 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Agent-driven media library for your cloud drives (115 / Quark / 光鸭 GuangYaPan).
+### 5. [JayWebtech/autoshorts](https://github.com/JayWebtech/autoshorts)
+| | |
+|---|---|
+| **Author** | JayWebtech |
+| **Affiliation** | Software Developer |
+| **Stars** | ⭐ 201 |
+| **Topics** | reasoning model |
+| **Why trending** | New release; trending in: reasoning model |
+
+> _No description provided._
