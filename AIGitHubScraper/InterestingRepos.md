@@ -4666,3 +4666,58 @@
 | **Why trending** | New release; trending in: reasoning model |
 
 > _No description provided._
+
+---
+
+## 2026-06-28 — 5 new repo(s)
+
+### 1. [bikini/exploitarium](https://github.com/bikini/exploitarium)
+| | |
+|---|---|
+| **Author** | bikini |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 1,690 |
+| **Topics** | vibe coding, ai coding |
+| **Why trending** | New release; rapidly growing; trending in: vibe coding, ai coding |
+
+> A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.
+### 2. [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag)
+| | |
+|---|---|
+| **Author** | CopilotKit |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 265 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> OpenTag
+### 3. [tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game)
+| | |
+|---|---|
+| **Author** | tutusagi |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 248 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 🎣 给 AI 玩的确定性文字钓鱼小游戏 · 单文件零依赖 · 让你的 AI 伴侣来钓鱼
+### 4. [eli-labz/Godcoder](https://github.com/eli-labz/Godcoder)
+| | |
+|---|---|
+| **Author** | eli-labz |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 245 |
+| **Topics** | llm, mcp server |
+| **Why trending** | Just launched; trending in: llm, mcp server |
+
+> A local-first, open-source coding agent for your desktop. Bring your own LLM key; your code stays on your machine and only ever leaves to the model provider. The AI Agent builds its own Harnes.
+### 5. [NotASithLord/peerd](https://github.com/NotASithLord/peerd)
+| | |
+|---|---|
+| **Author** | NotASithLord |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 205 |
+| **Topics** | llm, ai-agent, mcp server |
+| **Why trending** | New release; trending in: llm, ai agent, mcp server |
+
+> The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.
