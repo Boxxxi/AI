@@ -4721,3 +4721,58 @@
 | **Why trending** | New release; trending in: llm, ai agent, mcp server |
 
 > The first AI agent harness native to the browser. A Chrome/Firefox extension that runs the agent loop in your browser — drives your tabs, spins up sandboxed compute (JS notebooks, WASM Linux VMs, client-side apps), and shares what it builds peer-to-peer. BYOK · no backend · no telemetry.
+
+---
+
+## 2026-06-29 — 5 new repo(s)
+
+### 1. [Einsia/Browser-BC](https://github.com/Einsia/Browser-BC)
+| | |
+|---|---|
+| **Author** | Einsia |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 292 |
+| **Topics** | mcp server |
+| **Why trending** | Just launched; trending in: mcp server |
+
+> Agent behavior clone for browser using, targeting general GUI using and distributed trajectory collecting.
+### 2. [offchainthoughts/Amber](https://github.com/offchainthoughts/Amber)
+| | |
+|---|---|
+| **Author** | offchainthoughts |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 282 |
+| **Topics** | reasoning model |
+| **Why trending** | Just launched; trending in: reasoning model |
+
+> Bank the expensive compute once, then carry it offline as a single file that can prove it is what it claims to be.
+### 3. [uphiago/recon-skills](https://github.com/uphiago/recon-skills)
+| | |
+|---|---|
+| **Author** | uphiago |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 272 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> 144 offensive security skills for recon and pentest. Field-validated techniques from 600+ targets across 45+ sectors. Updated with web enum, email sec, google dorks, cloud IAM, WordPress full compromise chains.
+### 4. [ivorpad/mercadona-cli](https://github.com/ivorpad/mercadona-cli)
+| | |
+|---|---|
+| **Author** | ivorpad |
+| **Affiliation** | gradion-io |
+| **Stars** | ⭐ 241 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> _No description provided._
+### 5. [YurunChen/repo-docs-skills](https://github.com/YurunChen/repo-docs-skills)
+| | |
+|---|---|
+| **Author** | YurunChen |
+| **Affiliation** | Zhejiang University |
+| **Stars** | ⭐ 237 |
+| **Topics** | vibe coding, reasoning model |
+| **Why trending** | New release; trending in: vibe coding, reasoning model |
+
+> Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.
