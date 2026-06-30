@@ -4776,3 +4776,18 @@
 | **Why trending** | New release; trending in: vibe coding, reasoning model |
 
 > Living project docs for coding agents: keep guides, progress logs, change maps, and handoff context updated as your repo evolves.
+
+---
+
+## 2026-06-30 — 1 new repo(s)
+
+### 1. [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use)
+| | |
+|---|---|
+| **Author** | lycorp-jp |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 310 |
+| **Topics** | ai coding |
+| **Why trending** | New release; trending in: ai coding |
+
+> Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
