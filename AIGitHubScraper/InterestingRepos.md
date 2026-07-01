@@ -4791,3 +4791,38 @@
 | **Why trending** | New release; trending in: ai coding |
 
 > Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
+
+---
+
+## 2026-07-01 — 3 new repo(s)
+
+### 1. [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills)
+| | |
+|---|---|
+| **Author** | Kulaxyz |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 559 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.
+### 2. [revfactory/webtoon-harness](https://github.com/revfactory/webtoon-harness)
+| | |
+|---|---|
+| **Author** | revfactory |
+| **Affiliation** | kakao |
+| **Stars** | ⭐ 235 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> 트렌드 조사부터 세로 스크롤 뷰어 완성까지, 웹툰 한 회차를 27개 AI 에이전트 팀이 만들어내는 Claude Code 하네스
+### 3. [JasonLiu0826/ackem](https://github.com/JasonLiu0826/ackem)
+| | |
+|---|---|
+| **Author** | JasonLiu0826 |
+| **Affiliation** | Independent / Unknown |
+| **Stars** | ⭐ 223 |
+| **Topics** | ai coding |
+| **Why trending** | Just launched; trending in: ai coding |
+
+> Ackem — 本地优先 AI 桌面陪伴 · Local-first AI desktop companion. 隐私数据不上传，支持记忆/情绪/扩展/ 。AGPL-3.0
